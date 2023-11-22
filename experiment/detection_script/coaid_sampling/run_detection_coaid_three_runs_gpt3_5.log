@@ -1,0 +1,1171 @@
+i =  0 j =  1 gpt_output: NO
+i =  0
+i =  1 j =  1 gpt_output: NO
+i =  2 j =  1 gpt_output: YES
+i =  3 j =  1 gpt_output: NO
+i =  4 j =  1 gpt_output: NO
+i =  5 j =  1 gpt_output: NO
+i =  6 j =  1 gpt_output: YES
+i =  7 j =  1 gpt_output: NO
+i =  8 j =  1 gpt_output: NO
+i =  9 j =  1 gpt_output: NO
+i =  10 j =  1 gpt_output: NO
+i =  10
+i =  11 j =  1 gpt_output: NO
+i =  12 j =  1 gpt_output: NO
+i =  13 j =  1 gpt_output: NO
+i =  14 j =  1 gpt_output: NO
+i =  15 j =  1 gpt_output: NO
+i =  16 j =  1 gpt_output: NO
+i =  17 j =  1 gpt_output: NO
+i =  18 j =  1 gpt_output: NO
+i =  19 j =  1 gpt_output: NO
+i =  20 j =  1 gpt_output: YES
+i =  20
+i =  21 j =  1 gpt_output: NO
+i =  22 j =  1 gpt_output: NO
+i =  23 j =  1 gpt_output: NO
+i =  24 j =  1 gpt_output: NO
+i =  25 j =  1 gpt_output: NO
+i =  26 j =  1 gpt_output: YES
+i =  27 j =  1 gpt_output: NO
+i =  28 j =  1 gpt_output: NO
+i =  29 j =  1 gpt_output: NO
+i =  30 j =  1 gpt_output: NO
+i =  30
+i =  31 j =  1 gpt_output: NO
+i =  32 j =  1 gpt_output: NO
+i =  33 j =  1 gpt_output: NO
+i =  34 j =  1 gpt_output: NO
+i =  35 j =  1 gpt_output: NO
+i =  36 j =  1 gpt_output: NO
+i =  37 j =  1 gpt_output: YES
+i =  38 j =  1 gpt_output: NO
+i =  39 j =  1 gpt_output: NO
+i =  40 j =  1 gpt_output: NO
+i =  40
+i =  41 j =  1 gpt_output: NO
+i =  42 j =  1 gpt_output: NO
+i =  43 j =  1 gpt_output: NO
+i =  44 j =  1 gpt_output: NO
+i =  45 j =  1 gpt_output: YES
+i =  46 j =  1 gpt_output: NO
+i =  47 j =  1 gpt_output: NO
+i =  48 j =  1 gpt_output: NO
+i =  49 j =  1 gpt_output: NO
+i =  50 j =  1 gpt_output: NO
+i =  50
+i =  51 j =  1 gpt_output: NO
+i =  52 j =  1 gpt_output: YES
+i =  53 j =  1 gpt_output: NO
+i =  54 j =  1 gpt_output: NO
+i =  55 j =  1 gpt_output: NO
+i =  56 j =  1 gpt_output: NO
+i =  57 j =  1 gpt_output: NO
+i =  58 j =  1 gpt_output: NO
+i =  59 j =  1 gpt_output: NO
+i =  60 j =  1 gpt_output: NO
+i =  60
+i =  61 j =  1 gpt_output: NO
+i =  62 j =  1 gpt_output: NO
+i =  63 j =  1 gpt_output: NO
+i =  64 j =  1 gpt_output: NO
+i =  65 j =  1 gpt_output: NO
+i =  66 j =  1 gpt_output: NO
+i =  67 j =  1 gpt_output: NO
+i =  68 j =  1 gpt_output: NO
+i =  69 j =  1 gpt_output: NO
+i =  70 j =  1 gpt_output: NO
+i =  70
+i =  71 j =  1 gpt_output: NO
+i =  72 j =  1 gpt_output: NO
+i =  73 j =  1 gpt_output: NO
+i =  74 j =  1 gpt_output: NO
+i =  75 j =  1 gpt_output: NO
+i =  76 j =  1 gpt_output: NO
+i =  77 j =  1 gpt_output: NO
+i =  78 j =  1 gpt_output: NO
+i =  79 j =  1 gpt_output: NO
+i =  80 j =  1 gpt_output: NO
+i =  80
+i =  81 j =  1 gpt_output: NO
+i =  82 j =  1 gpt_output: YES
+i =  83 j =  1 gpt_output: NO
+i =  84 j =  1 gpt_output: NO
+i =  85 j =  1 gpt_output: NO
+finish
+i =  0 j =  1 gpt_output: NO
+i =  0
+i =  1 j =  1 gpt_output: YES
+i =  2 j =  1 gpt_output: YES
+i =  3 j =  1 gpt_output: NO
+i =  4 j =  1 gpt_output: NO
+i =  5 j =  1 gpt_output: NO
+i =  6 j =  1 gpt_output: YES
+i =  7 j =  1 gpt_output: NO
+i =  8 j =  1 gpt_output: NO
+i =  9 j =  1 gpt_output: NO
+i =  10 j =  1 gpt_output: NO
+i =  10
+i =  11 j =  1 gpt_output: NO
+i =  12 j =  1 gpt_output: NO
+i =  13 j =  1 gpt_output: NO
+i =  14 j =  1 gpt_output: NO
+i =  15 j =  1 gpt_output: NO
+i =  16 j =  1 gpt_output: NO
+i =  17 j =  1 gpt_output: NO
+i =  18 j =  1 gpt_output: NO
+i =  19 j =  1 gpt_output: NO
+i =  20 j =  1 gpt_output: YES
+i =  20
+i =  21 j =  1 gpt_output: NO
+i =  22 j =  1 gpt_output: YES
+i =  23 j =  1 gpt_output: YES
+i =  24 j =  1 gpt_output: NO
+i =  25 j =  1 gpt_output: NO
+i =  26 j =  1 gpt_output: NO
+i =  27 j =  1 gpt_output: NO
+i =  28 j =  1 gpt_output: NO
+i =  29 j =  1 gpt_output: NO
+i =  30 j =  1 gpt_output: NO
+i =  30
+i =  31 j =  1 gpt_output: NO
+i =  32 j =  1 gpt_output: NO
+i =  33 j =  1 gpt_output: NO
+i =  34 j =  1 gpt_output: NO
+i =  35 j =  1 gpt_output: NO
+i =  36 j =  1 gpt_output: NO
+i =  37 j =  1 gpt_output: NO
+i =  38 j =  1 gpt_output: NO
+i =  39 j =  1 gpt_output: NO
+i =  40 j =  1 gpt_output: NO
+i =  40
+i =  41 j =  1 gpt_output: NO
+i =  42 j =  1 gpt_output: NO
+i =  43 j =  1 gpt_output: NO
+i =  44 j =  1 gpt_output: NO
+i =  45 j =  1 gpt_output: NO
+i =  46 j =  1 gpt_output: NO
+i =  47 j =  1 gpt_output: NO
+i =  48 j =  1 gpt_output: YES
+i =  49 j =  1 gpt_output: NO
+i =  50 j =  1 gpt_output: NO
+i =  50
+i =  51 j =  1 gpt_output: NO
+i =  52 j =  1 gpt_output: NO
+i =  53 j =  1 gpt_output: NO
+i =  54 j =  1 gpt_output: NO
+i =  55 j =  1 gpt_output: NO
+i =  56 j =  1 gpt_output: YES
+i =  57 j =  1 gpt_output: NO
+i =  58 j =  1 gpt_output: NO
+i =  59 j =  1 gpt_output: NO
+i =  60 j =  1 gpt_output: NO
+i =  60
+i =  61 j =  1 gpt_output: NO
+i =  62 j =  1 gpt_output: NO
+i =  63 j =  1 gpt_output: NO
+Timeout error occurred. Retrying in 30 seconds...
+i =  64 j =  1 gpt_output: NO
+i =  65 j =  1 gpt_output: NO
+i =  66 j =  1 gpt_output: NO
+i =  67 j =  1 gpt_output: YES
+i =  68 j =  1 gpt_output: NO
+i =  69 j =  1 gpt_output: NO
+i =  70 j =  1 gpt_output: YES
+i =  70
+i =  71 j =  1 gpt_output: NO
+i =  72 j =  1 gpt_output: NO
+i =  73 j =  1 gpt_output: NO
+i =  74 j =  1 gpt_output: NO
+i =  75 j =  1 gpt_output: NO
+i =  76 j =  1 gpt_output: NO
+i =  77 j =  1 gpt_output: NO
+i =  78 j =  1 gpt_output: NO
+i =  79 j =  1 gpt_output: NO
+i =  80 j =  1 gpt_output: NO
+i =  80
+i =  81 j =  1 gpt_output: NO
+i =  82 j =  1 gpt_output: YES
+i =  83 j =  1 gpt_output: NO
+i =  84 j =  1 gpt_output: YES
+i =  85 j =  1 gpt_output: NO
+finish
+i =  0 j =  1 gpt_output: NO
+i =  0
+i =  1 j =  1 gpt_output: YES
+i =  2 j =  1 gpt_output: YES
+i =  3 j =  1 gpt_output: NO
+i =  4 j =  1 gpt_output: NO
+i =  5 j =  1 gpt_output: NO
+i =  6 j =  1 gpt_output: YES
+i =  7 j =  1 gpt_output: NO
+i =  8 j =  1 gpt_output: NO
+i =  9 j =  1 gpt_output: YES
+i =  10 j =  1 gpt_output: NO
+i =  10
+i =  11 j =  1 gpt_output: YES
+i =  12 j =  1 gpt_output: NO
+i =  13 j =  1 gpt_output: NO
+i =  14 j =  1 gpt_output: NO
+i =  15 j =  1 gpt_output: NO
+i =  16 j =  1 gpt_output: NO
+i =  17 j =  1 gpt_output: NO
+i =  18 j =  1 gpt_output: NO
+i =  19 j =  1 gpt_output: NO
+i =  20 j =  1 gpt_output: NO
+i =  20
+i =  21 j =  1 gpt_output: NO
+i =  22 j =  1 gpt_output: NO
+i =  23 j =  1 gpt_output: NO
+i =  24 j =  1 gpt_output: NO
+i =  25 j =  1 gpt_output: NO
+i =  26 j =  1 gpt_output: NO
+i =  27 j =  1 gpt_output: NO
+i =  28 j =  1 gpt_output: YES
+i =  29 j =  1 gpt_output: NO
+i =  30 j =  1 gpt_output: NO
+i =  30
+i =  31 j =  1 gpt_output: NO
+i =  32 j =  1 gpt_output: YES
+i =  33 j =  1 gpt_output: NO
+i =  34 j =  1 gpt_output: NO
+i =  35 j =  1 gpt_output: NO
+i =  36 j =  1 gpt_output: NO
+i =  37 j =  1 gpt_output: YES
+i =  38 j =  1 gpt_output: NO
+i =  39 j =  1 gpt_output: NO
+i =  40 j =  1 gpt_output: NO
+i =  40
+i =  41 j =  1 gpt_output: YES
+i =  42 j =  1 gpt_output: NO
+i =  43 j =  1 gpt_output: NO
+i =  44 j =  1 gpt_output: NO
+i =  45 j =  1 gpt_output: NO
+i =  46 j =  1 gpt_output: NO
+i =  47 j =  1 gpt_output: NO
+i =  48 j =  1 gpt_output: NO
+i =  49 j =  1 gpt_output: NO
+i =  50 j =  1 gpt_output: NO
+i =  50
+i =  51 j =  1 gpt_output: NO
+i =  52 j =  1 gpt_output: YES
+i =  53 j =  1 gpt_output: NO
+i =  54 j =  1 gpt_output: NO
+i =  55 j =  1 gpt_output: NO
+i =  56 j =  1 gpt_output: NO
+i =  57 j =  1 gpt_output: NO
+i =  58 j =  1 gpt_output: NO
+i =  59 j =  1 gpt_output: NO
+i =  60 j =  1 gpt_output: YES
+i =  60
+i =  61 j =  1 gpt_output: NO
+i =  62 j =  1 gpt_output: NO
+i =  63 j =  1 gpt_output: NO
+i =  64 j =  1 gpt_output: NO
+i =  65 j =  1 gpt_output: NO
+i =  66 j =  1 gpt_output: NO
+i =  67 j =  1 gpt_output: NO
+i =  68 j =  1 gpt_output: NO
+i =  69 j =  1 gpt_output: NO
+i =  70 j =  1 gpt_output: NO
+i =  70
+i =  71 j =  1 gpt_output: NO
+i =  72 j =  1 gpt_output: NO
+i =  73 j =  1 gpt_output: NO
+i =  74 j =  1 gpt_output: NO
+i =  75 j =  1 gpt_output: NO
+i =  76 j =  1 gpt_output: NO
+i =  77 j =  1 gpt_output: NO
+i =  78 j =  1 gpt_output: NO
+i =  79 j =  1 gpt_output: YES
+i =  80 j =  1 gpt_output: NO
+i =  80
+i =  81 j =  1 gpt_output: NO
+i =  82 j =  1 gpt_output: YES
+i =  83 j =  1 gpt_output: NO
+i =  84 j =  1 gpt_output: YES
+i =  85 j =  1 gpt_output: NO
+finish
+i =  0 j =  1 gpt_output: NO
+i =  0
+i =  1 j =  1 gpt_output: NO
+i =  2 j =  1 gpt_output: NO
+i =  3 j =  1 gpt_output: NO
+i =  4 j =  1 gpt_output: NO
+i =  5 j =  1 gpt_output: NO
+i =  6 j =  1 gpt_output: NO
+i =  7 j =  1 gpt_output: NO
+i =  8 j =  1 gpt_output: NO
+i =  9 j =  1 gpt_output: NO
+i =  10 j =  1 gpt_output: NO
+i =  10
+i =  11 j =  1 gpt_output: NO
+i =  12 j =  1 gpt_output: NO
+i =  13 j =  1 gpt_output: YES
+i =  14 j =  1 gpt_output: YES
+i =  15 j =  1 gpt_output: NO
+i =  16 j =  1 gpt_output: NO
+i =  17 j =  1 gpt_output: NO
+i =  18 j =  1 gpt_output: NO
+i =  19 j =  1 gpt_output: NO
+i =  20 j =  1 gpt_output: NO
+i =  20
+i =  21 j =  1 gpt_output: NO
+i =  22 j =  1 gpt_output: NO
+i =  23 j =  1 gpt_output: NO
+i =  24 j =  1 gpt_output: NO
+i =  25 j =  1 gpt_output: NO
+i =  26 j =  1 gpt_output: NO
+i =  27 j =  1 gpt_output: NO
+i =  28 j =  1 gpt_output: NO
+i =  29 j =  1 gpt_output: NO
+i =  30 j =  1 gpt_output: NO
+i =  30
+i =  31 j =  1 gpt_output: s storm, let us stand united in our commitment to prioritizing public health, supporting our medical professionals, and combating misinformation that can undermine the efforts of those on the front lines. Together, we can overcome this challenge and emerge stronger as a global community. YES
+i =  32 j =  1 gpt_output: NO
+i =  33 j =  1 gpt_output: NO
+i =  34 j =  1 gpt_output: NO
+i =  35 j =  1 gpt_output: NO
+i =  36 j =  1 gpt_output: NO
+i =  37 j =  1 gpt_output: NO
+i =  38 j =  1 gpt_output: NO
+i =  39 j =  1 gpt_output: NO
+i =  40 j =  1 gpt_output: NO
+i =  40
+i =  41 j =  1 gpt_output: NO
+i =  42 j =  1 gpt_output: NO
+i =  43 j =  1 gpt_output: NO
+i =  44 j =  1 gpt_output: NO
+i =  45 j =  1 gpt_output: NO
+i =  46 j =  1 gpt_output: NO
+i =  47 j =  1 gpt_output: NO
+i =  48 j =  1 gpt_output: NO
+i =  49 j =  1 gpt_output: NO
+i =  50 j =  1 gpt_output: NO
+i =  50
+i =  51 j =  1 gpt_output: NO
+i =  52 j =  1 gpt_output: NO
+i =  53 j =  1 gpt_output: NO
+i =  54 j =  1 gpt_output: NO
+i =  55 j =  1 gpt_output: NO
+i =  56 j =  1 gpt_output: NO
+i =  57 j =  1 gpt_output: NO
+i =  58 j =  1 gpt_output: NO
+i =  59 j =  1 gpt_output: NO
+i =  60 j =  1 gpt_output: NO
+i =  60
+i =  61 j =  1 gpt_output: NO
+i =  62 j =  1 gpt_output: NO
+i =  63 j =  1 gpt_output: NO
+i =  64 j =  1 gpt_output: NO
+i =  65 j =  1 gpt_output: NO
+i =  66 j =  1 gpt_output: NO
+i =  67 j =  1 gpt_output: NO
+i =  68 j =  1 gpt_output: NO
+i =  69 j =  1 gpt_output: NO
+i =  70 j =  1 gpt_output: NO
+i =  70
+i =  71 j =  1 gpt_output: NO
+i =  72 j =  1 gpt_output: NO
+i =  73 j =  1 gpt_output: NO
+i =  74 j =  1 gpt_output: NO
+i =  75 j =  1 gpt_output: NO
+i =  76 j =  1 gpt_output: NO
+i =  77 j =  1 gpt_output: NO
+i =  78 j =  1 gpt_output: NO
+i =  79 j =  1 gpt_output: NO
+i =  80 j =  1 gpt_output: NO
+i =  80
+i =  81 j =  1 gpt_output: NO
+i =  82 j =  1 gpt_output: NO
+i =  83 j =  1 gpt_output: NO
+i =  84 j =  1 gpt_output: NO
+i =  85 j =  1 gpt_output: NO
+finish
+i =  0 j =  1 gpt_output: NO
+i =  0
+i =  1 j =  1 gpt_output: NO
+i =  2 j =  1 gpt_output: NO
+i =  3 j =  1 gpt_output: NO
+i =  4 j =  1 gpt_output: NO
+i =  5 j =  1 gpt_output: NO
+i =  6 j =  1 gpt_output: NO
+i =  7 j =  1 gpt_output: NO
+i =  8 j =  1 gpt_output: NO
+i =  9 j =  1 gpt_output: NO
+i =  10 j =  1 gpt_output: NO
+i =  10
+i =  11 j =  1 gpt_output: NO
+i =  12 j =  1 gpt_output: NO
+i =  13 j =  1 gpt_output: NO
+i =  14 j =  1 gpt_output: NO
+i =  15 j =  1 gpt_output: YES
+i =  16 j =  1 gpt_output: NO
+i =  17 j =  1 gpt_output: NO
+i =  18 j =  1 gpt_output: NO
+i =  19 j =  1 gpt_output: NO
+i =  20 j =  1 gpt_output: NO
+i =  20
+i =  21 j =  1 gpt_output: YES
+i =  22 j =  1 gpt_output: NO
+i =  23 j =  1 gpt_output: NO
+i =  24 j =  1 gpt_output: NO
+i =  25 j =  1 gpt_output: NO
+i =  26 j =  1 gpt_output: NO
+i =  27 j =  1 gpt_output: NO
+i =  28 j =  1 gpt_output: NO
+i =  29 j =  1 gpt_output: NO
+i =  30 j =  1 gpt_output: NO
+i =  30
+i =  31 j =  1 gpt_output: s challenging period, it is essential to remember that these strict visitation policies in hospitals are not misinformation. The passage explains the reasons behind the restrictions, emphasizing the need to protect patients and prevent the spread of COVID-19. It also highlights the efforts made by hospital staff to ensure communication and support for parents. Therefore, the answer is 'NO', this passage is not a piece of misinformation.
+i =  32 j =  1 gpt_output: NO
+i =  33 j =  1 gpt_output: NO
+i =  34 j =  1 gpt_output: NO
+i =  35 j =  1 gpt_output: NO
+i =  36 j =  1 gpt_output: NO
+i =  37 j =  1 gpt_output: NO
+i =  38 j =  1 gpt_output: NO
+i =  39 j =  1 gpt_output: No
+i =  39 j =  2 gpt_output: NO
+i =  40 j =  1 gpt_output: NO
+i =  40
+i =  41 j =  1 gpt_output: NO
+i =  42 j =  1 gpt_output: NO
+i =  43 j =  1 gpt_output: NO
+i =  44 j =  1 gpt_output: NO
+i =  45 j =  1 gpt_output: NO
+i =  46 j =  1 gpt_output: NO
+i =  47 j =  1 gpt_output: NO
+i =  48 j =  1 gpt_output: NO
+i =  49 j =  1 gpt_output: This passage is not a piece of misinformation.
+i =  49 j =  2 gpt_output: ipulation of the vaccine development, regulation, and distribution processes has resulted in opposing views regarding their efficacy and safety, it is essential to separate fact from fiction. The purpose of COVID-19 vaccines extends far beyond the survival rate of the virus. They aim to protect vulnerable populations, mitigate long-term health consequences, and contribute to the achievement of herd immunity. Vaccines remain a crucial tool in the fight against the global health crisis and offer hope for a brighter post-pandemic future. 
+
+NO
+i =  50 j =  1 gpt_output: NO
+i =  50
+i =  51 j =  1 gpt_output: NO
+i =  52 j =  1 gpt_output: NO
+i =  53 j =  1 gpt_output: NO
+i =  54 j =  1 gpt_output: NO
+i =  55 j =  1 gpt_output: NO
+i =  56 j =  1 gpt_output: NO
+i =  57 j =  1 gpt_output: NO
+i =  58 j =  1 gpt_output: NO
+i =  59 j =  1 gpt_output: NO
+i =  60 j =  1 gpt_output: NO
+i =  60
+i =  61 j =  1 gpt_output: NO
+i =  62 j =  1 gpt_output: NO
+i =  63 j =  1 gpt_output: NO
+i =  64 j =  1 gpt_output: NO
+i =  65 j =  1 gpt_output: NO
+i =  66 j =  1 gpt_output: NO
+i =  67 j =  1 gpt_output: NO
+i =  68 j =  1 gpt_output: NO
+i =  69 j =  1 gpt_output: YES
+i =  70 j =  1 gpt_output: YES
+i =  70
+i =  71 j =  1 gpt_output: NO
+i =  72 j =  1 gpt_output: NO
+i =  73 j =  1 gpt_output: NO
+i =  74 j =  1 gpt_output: NO
+i =  75 j =  1 gpt_output: NO
+i =  76 j =  1 gpt_output: NO
+i =  77 j =  1 gpt_output: NO
+i =  78 j =  1 gpt_output: NO
+i =  79 j =  1 gpt_output: NO
+i =  80 j =  1 gpt_output: NO
+i =  80
+i =  81 j =  1 gpt_output: NO
+i =  82 j =  1 gpt_output: NO
+i =  83 j =  1 gpt_output: NO
+i =  84 j =  1 gpt_output: NO
+i =  85 j =  1 gpt_output: NO
+finish
+i =  0 j =  1 gpt_output: NO
+i =  0
+i =  1 j =  1 gpt_output: NO
+i =  2 j =  1 gpt_output: NO
+i =  3 j =  1 gpt_output: NO
+i =  4 j =  1 gpt_output: NO
+i =  5 j =  1 gpt_output: NO
+i =  6 j =  1 gpt_output: NO
+i =  7 j =  1 gpt_output: NO
+i =  8 j =  1 gpt_output: NO
+i =  9 j =  1 gpt_output: NO
+i =  10 j =  1 gpt_output: NO
+i =  10
+i =  11 j =  1 gpt_output: NO
+i =  12 j =  1 gpt_output: NO
+i =  13 j =  1 gpt_output: YES
+i =  14 j =  1 gpt_output: NO
+i =  15 j =  1 gpt_output: YES
+i =  16 j =  1 gpt_output: NO
+i =  17 j =  1 gpt_output: NO
+i =  18 j =  1 gpt_output: NO
+i =  19 j =  1 gpt_output: NO
+i =  20 j =  1 gpt_output: NO
+i =  20
+i =  21 j =  1 gpt_output: NO
+i =  22 j =  1 gpt_output: NO
+i =  23 j =  1 gpt_output: NO
+i =  24 j =  1 gpt_output: NO
+i =  25 j =  1 gpt_output: NO
+i =  26 j =  1 gpt_output: NO
+i =  27 j =  1 gpt_output: NO
+i =  28 j =  1 gpt_output: NO
+i =  29 j =  1 gpt_output: NO
+i =  30 j =  1 gpt_output: NO
+i =  30
+ServiceUnavailable Error occurred. Retrying in 30 seconds...
+i =  31 j =  1 gpt_output: s crisis together, it is crucial to rely on accurate information and trust in the expertise of medical professionals.
+i =  31 j =  2 gpt_output: s storm, we must prioritize the safety and well-being of all individuals involved, even if it means temporary separation from loved ones. While difficult and heartbreaking, these visitation restrictions are a necessary measure to prevent the spread of Covid-19 and protect the most vulnerable among us.
+
+NO
+i =  32 j =  1 gpt_output: NO
+i =  33 j =  1 gpt_output: NO
+i =  34 j =  1 gpt_output: NO
+i =  35 j =  1 gpt_output: NO
+i =  36 j =  1 gpt_output: NO
+i =  37 j =  1 gpt_output: NO
+i =  38 j =  1 gpt_output: NO
+i =  39 j =  1 gpt_output: NO
+i =  40 j =  1 gpt_output: NO
+i =  40
+i =  41 j =  1 gpt_output: NO
+i =  42 j =  1 gpt_output: NO
+i =  43 j =  1 gpt_output: NO
+i =  44 j =  1 gpt_output: NO
+i =  45 j =  1 gpt_output: NO
+i =  46 j =  1 gpt_output: NO
+i =  47 j =  1 gpt_output: NO
+i =  48 j =  1 gpt_output: NO
+i =  49 j =  1 gpt_output: This passage is not a piece of misinformation.
+i =  49 j =  2 gpt_output: y individuals with COVID-19 experience mild symptoms or recover without complications, this passage provides factual information about the importance of COVID-19 vaccines. It addresses misconceptions and highlights the significance of vaccines in protecting vulnerable populations, preventing long-term health consequences, achieving herd immunity, and reducing transmission rates. Therefore, the passage is not a piece of misinformation.
+i =  49 j =  3 gpt_output: y individuals infected with COVID-19 have a high survival rate, the passage explains the importance of vaccines in addressing the pandemic. It discusses the vulnerability of certain groups, the potential long-term consequences of the virus, the role of vaccines in achieving herd immunity, and the benefits of vaccines in reducing transmission rates and preventing the emergence of new variants. It also emphasizes the rigorous protocols and scientific research behind the development and distribution of vaccines. Therefore, the passage is not a piece of misinformation. The answer is 'NO'.
+i =  50 j =  1 gpt_output: NO
+i =  50
+i =  51 j =  1 gpt_output: NO
+i =  52 j =  1 gpt_output: NO
+i =  53 j =  1 gpt_output: NO
+i =  54 j =  1 gpt_output: NO
+i =  55 j =  1 gpt_output: NO
+i =  56 j =  1 gpt_output: NO
+i =  57 j =  1 gpt_output: NO
+i =  58 j =  1 gpt_output: NO
+i =  59 j =  1 gpt_output: NO
+i =  60 j =  1 gpt_output: YES
+i =  60
+i =  61 j =  1 gpt_output: NO
+i =  62 j =  1 gpt_output: NO
+i =  63 j =  1 gpt_output: NO
+i =  64 j =  1 gpt_output: NO
+i =  65 j =  1 gpt_output: NO
+i =  66 j =  1 gpt_output: NO
+i =  67 j =  1 gpt_output: NO
+i =  68 j =  1 gpt_output: NO
+i =  69 j =  1 gpt_output: NO
+i =  70 j =  1 gpt_output: NO
+i =  70
+i =  71 j =  1 gpt_output: NO
+i =  72 j =  1 gpt_output: NO
+i =  73 j =  1 gpt_output: NO
+i =  74 j =  1 gpt_output: NO
+i =  75 j =  1 gpt_output: NO
+i =  76 j =  1 gpt_output: NO
+i =  77 j =  1 gpt_output: NO
+i =  78 j =  1 gpt_output: NO
+i =  79 j =  1 gpt_output: NO
+i =  80 j =  1 gpt_output: NO
+i =  80
+i =  81 j =  1 gpt_output: NO
+i =  82 j =  1 gpt_output: NO
+i =  83 j =  1 gpt_output: NO
+i =  84 j =  1 gpt_output: NO
+i =  85 j =  1 gpt_output: NO
+finish
+i =  0 j =  1 gpt_output: NO
+i =  0
+i =  1 j =  1 gpt_output: NO
+i =  2 j =  1 gpt_output: NO
+i =  3 j =  1 gpt_output: NO
+i =  4 j =  1 gpt_output: NO
+i =  5 j =  1 gpt_output: NO
+i =  6 j =  1 gpt_output: NO
+i =  7 j =  1 gpt_output: NO
+i =  8 j =  1 gpt_output: NO
+i =  9 j =  1 gpt_output: NO
+i =  10 j =  1 gpt_output: NO
+i =  10
+i =  11 j =  1 gpt_output: The 'passage' is unclear and incomplete, so it is difficult to determine whether it is a piece of misinformation or not.
+i =  11 j =  2 gpt_output: exempt members of Congress from the quarantine requirement.
+i =  11 j =  3 gpt_output: YES
+i =  12 j =  1 gpt_output: NO
+i =  13 j =  1 gpt_output: NO
+i =  14 j =  1 gpt_output: NO
+i =  15 j =  1 gpt_output: NO
+API error occurred. Retrying in 30 seconds...
+i =  16 j =  1 gpt_output: NO
+i =  17 j =  1 gpt_output: NO
+i =  18 j =  1 gpt_output: NO
+i =  19 j =  1 gpt_output: NO
+i =  20 j =  1 gpt_output: NO
+i =  20
+i =  21 j =  1 gpt_output: NO
+i =  22 j =  1 gpt_output: NO
+i =  23 j =  1 gpt_output: NO
+i =  24 j =  1 gpt_output: NO
+i =  25 j =  1 gpt_output: NO
+i =  26 j =  1 gpt_output: NO
+i =  27 j =  1 gpt_output: NO
+i =  28 j =  1 gpt_output: YES
+i =  29 j =  1 gpt_output: NO
+i =  30 j =  1 gpt_output: NO
+i =  30
+i =  31 j =  1 gpt_output: NO
+i =  32 j =  1 gpt_output: NO
+i =  33 j =  1 gpt_output: NO
+i =  34 j =  1 gpt_output: NO
+i =  35 j =  1 gpt_output: NO
+i =  36 j =  1 gpt_output: NO
+i =  37 j =  1 gpt_output: NO
+i =  38 j =  1 gpt_output: NO
+i =  39 j =  1 gpt_output: NO
+i =  40 j =  1 gpt_output: NO
+i =  40
+i =  41 j =  1 gpt_output: NO
+i =  42 j =  1 gpt_output: NO
+i =  43 j =  1 gpt_output: NO
+i =  44 j =  1 gpt_output: NO
+i =  45 j =  1 gpt_output: NO
+i =  46 j =  1 gpt_output: NO
+i =  47 j =  1 gpt_output: NO
+i =  48 j =  1 gpt_output: NO
+i =  49 j =  1 gpt_output: NO
+i =  50 j =  1 gpt_output: NO
+i =  50
+i =  51 j =  1 gpt_output: NO
+i =  52 j =  1 gpt_output: NO
+i =  53 j =  1 gpt_output: NO
+i =  54 j =  1 gpt_output: NO
+i =  55 j =  1 gpt_output: NO
+i =  56 j =  1 gpt_output: NO
+i =  57 j =  1 gpt_output: NO
+i =  58 j =  1 gpt_output: NO
+i =  59 j =  1 gpt_output: NO
+i =  60 j =  1 gpt_output: YES
+i =  60
+i =  61 j =  1 gpt_output: NO
+i =  62 j =  1 gpt_output: NO
+i =  63 j =  1 gpt_output: NO
+i =  64 j =  1 gpt_output: NO
+i =  65 j =  1 gpt_output: NO
+i =  66 j =  1 gpt_output: NO
+i =  67 j =  1 gpt_output: NO
+i =  68 j =  1 gpt_output: NO
+i =  69 j =  1 gpt_output: NO
+i =  70 j =  1 gpt_output: NO
+i =  70
+i =  71 j =  1 gpt_output: NO
+i =  72 j =  1 gpt_output: NO
+i =  73 j =  1 gpt_output: NO
+i =  74 j =  1 gpt_output: NO
+i =  75 j =  1 gpt_output: NO
+i =  76 j =  1 gpt_output: YES
+i =  77 j =  1 gpt_output: NO
+i =  78 j =  1 gpt_output: NO
+i =  79 j =  1 gpt_output: NO
+i =  80 j =  1 gpt_output: NO
+i =  80
+i =  81 j =  1 gpt_output: NO
+i =  82 j =  1 gpt_output: NO
+i =  83 j =  1 gpt_output: NO
+i =  84 j =  1 gpt_output: YES
+i =  85 j =  1 gpt_output: NO
+finish
+i =  0 j =  1 gpt_output: NO
+i =  0
+i =  1 j =  1 gpt_output: NO
+i =  2 j =  1 gpt_output: NO
+i =  3 j =  1 gpt_output: NO
+i =  4 j =  1 gpt_output: NO
+i =  5 j =  1 gpt_output: NO
+i =  6 j =  1 gpt_output: NO
+i =  7 j =  1 gpt_output: NO
+i =  8 j =  1 gpt_output: NO
+i =  9 j =  1 gpt_output: NO
+i =  10 j =  1 gpt_output: NO
+i =  10
+i =  11 j =  1 gpt_output: YES
+i =  12 j =  1 gpt_output: NO
+i =  13 j =  1 gpt_output: NO
+i =  14 j =  1 gpt_output: NO
+i =  15 j =  1 gpt_output: NO
+i =  16 j =  1 gpt_output: NO
+i =  17 j =  1 gpt_output: NO
+i =  18 j =  1 gpt_output: NO
+i =  19 j =  1 gpt_output: NO
+i =  20 j =  1 gpt_output: NO
+i =  20
+i =  21 j =  1 gpt_output: NO
+i =  22 j =  1 gpt_output: NO
+i =  23 j =  1 gpt_output: NO
+i =  24 j =  1 gpt_output: NO
+i =  25 j =  1 gpt_output: NO
+i =  26 j =  1 gpt_output: NO
+i =  27 j =  1 gpt_output: NO
+i =  28 j =  1 gpt_output: NO
+i =  29 j =  1 gpt_output: NO
+i =  30 j =  1 gpt_output: NO
+i =  30
+i =  31 j =  1 gpt_output: NO
+i =  32 j =  1 gpt_output: NO
+Timeout error occurred. Retrying in 30 seconds...
+i =  33 j =  1 gpt_output: NO
+i =  34 j =  1 gpt_output: NO
+i =  35 j =  1 gpt_output: NO
+i =  36 j =  1 gpt_output: NO
+i =  37 j =  1 gpt_output: NO
+i =  38 j =  1 gpt_output: NO
+i =  39 j =  1 gpt_output: NO
+i =  40 j =  1 gpt_output: NO
+i =  40
+i =  41 j =  1 gpt_output: NO
+i =  42 j =  1 gpt_output: NO
+i =  43 j =  1 gpt_output: NO
+i =  44 j =  1 gpt_output: NO
+i =  45 j =  1 gpt_output: YES
+i =  46 j =  1 gpt_output: NO
+i =  47 j =  1 gpt_output: NO
+i =  48 j =  1 gpt_output: NO
+i =  49 j =  1 gpt_output: NO
+i =  50 j =  1 gpt_output: NO
+i =  50
+i =  51 j =  1 gpt_output: NO
+i =  52 j =  1 gpt_output: NO
+i =  53 j =  1 gpt_output: NO
+i =  54 j =  1 gpt_output: NO
+i =  55 j =  1 gpt_output: NO
+i =  56 j =  1 gpt_output: NO
+i =  57 j =  1 gpt_output: NO
+i =  58 j =  1 gpt_output: NO
+i =  59 j =  1 gpt_output: NO
+i =  60 j =  1 gpt_output: NO
+i =  60
+i =  61 j =  1 gpt_output: NO
+i =  62 j =  1 gpt_output: NO
+i =  63 j =  1 gpt_output: NO
+i =  64 j =  1 gpt_output: NO
+i =  65 j =  1 gpt_output: NO
+i =  66 j =  1 gpt_output: NO
+i =  67 j =  1 gpt_output: NO
+i =  68 j =  1 gpt_output: NO
+i =  69 j =  1 gpt_output: NO
+i =  70 j =  1 gpt_output: NO
+i =  70
+i =  71 j =  1 gpt_output: NO
+i =  72 j =  1 gpt_output: NO
+i =  73 j =  1 gpt_output: NO
+i =  74 j =  1 gpt_output: NO
+i =  75 j =  1 gpt_output: NO
+i =  76 j =  1 gpt_output: NO
+i =  77 j =  1 gpt_output: NO
+i =  78 j =  1 gpt_output: NO
+i =  79 j =  1 gpt_output: NO
+i =  80 j =  1 gpt_output: NO
+i =  80
+i =  81 j =  1 gpt_output: NO
+i =  82 j =  1 gpt_output: YES
+i =  83 j =  1 gpt_output: NO
+i =  84 j =  1 gpt_output: NO
+i =  85 j =  1 gpt_output: NO
+finish
+i =  0 j =  1 gpt_output: NO
+i =  0
+i =  1 j =  1 gpt_output: NO
+i =  2 j =  1 gpt_output: NO
+i =  3 j =  1 gpt_output: NO
+i =  4 j =  1 gpt_output: NO
+i =  5 j =  1 gpt_output: NO
+i =  6 j =  1 gpt_output: NO
+i =  7 j =  1 gpt_output: NO
+i =  8 j =  1 gpt_output: NO
+i =  9 j =  1 gpt_output: NO
+i =  10 j =  1 gpt_output: NO
+i =  10
+i =  11 j =  1 gpt_output: provide specific information about exempting members of Congress from the quarantine requirement.
+i =  11 j =  2 gpt_output: NO
+i =  12 j =  1 gpt_output: NO
+i =  13 j =  1 gpt_output: NO
+i =  14 j =  1 gpt_output: NO
+i =  15 j =  1 gpt_output: NO
+i =  16 j =  1 gpt_output: NO
+i =  17 j =  1 gpt_output: NO
+i =  18 j =  1 gpt_output: NO
+i =  19 j =  1 gpt_output: NO
+i =  20 j =  1 gpt_output: NO
+i =  20
+i =  21 j =  1 gpt_output: NO
+i =  22 j =  1 gpt_output: NO
+i =  23 j =  1 gpt_output: NO
+i =  24 j =  1 gpt_output: NO
+i =  25 j =  1 gpt_output: NO
+i =  26 j =  1 gpt_output: NO
+i =  27 j =  1 gpt_output: NO
+i =  28 j =  1 gpt_output: NO
+i =  29 j =  1 gpt_output: NO
+i =  30 j =  1 gpt_output: NO
+i =  30
+i =  31 j =  1 gpt_output: NO
+i =  32 j =  1 gpt_output: NO
+i =  33 j =  1 gpt_output: NO
+i =  34 j =  1 gpt_output: NO
+i =  35 j =  1 gpt_output: NO
+i =  36 j =  1 gpt_output: NO
+i =  37 j =  1 gpt_output: NO
+i =  38 j =  1 gpt_output: NO
+i =  39 j =  1 gpt_output: NO
+i =  40 j =  1 gpt_output: NO
+i =  40
+i =  41 j =  1 gpt_output: NO
+i =  42 j =  1 gpt_output: NO
+i =  43 j =  1 gpt_output: NO
+i =  44 j =  1 gpt_output: NO
+i =  45 j =  1 gpt_output: NO
+i =  46 j =  1 gpt_output: NO
+i =  47 j =  1 gpt_output: NO
+i =  48 j =  1 gpt_output: NO
+i =  49 j =  1 gpt_output: NO
+i =  50 j =  1 gpt_output: NO
+i =  50
+i =  51 j =  1 gpt_output: NO
+i =  52 j =  1 gpt_output: NO
+i =  53 j =  1 gpt_output: NO
+i =  54 j =  1 gpt_output: NO
+i =  55 j =  1 gpt_output: NO
+i =  56 j =  1 gpt_output: NO
+i =  57 j =  1 gpt_output: NO
+i =  58 j =  1 gpt_output: NO
+i =  59 j =  1 gpt_output: NO
+i =  60 j =  1 gpt_output: NO
+i =  60
+i =  61 j =  1 gpt_output: NO
+i =  62 j =  1 gpt_output: NO
+i =  63 j =  1 gpt_output: NO
+i =  64 j =  1 gpt_output: NO
+i =  65 j =  1 gpt_output: NO
+i =  66 j =  1 gpt_output: NO
+i =  67 j =  1 gpt_output: NO
+i =  68 j =  1 gpt_output: NO
+i =  69 j =  1 gpt_output: NO
+i =  70 j =  1 gpt_output: NO
+i =  70
+i =  71 j =  1 gpt_output: NO
+i =  72 j =  1 gpt_output: NO
+i =  73 j =  1 gpt_output: NO
+i =  74 j =  1 gpt_output: NO
+i =  75 j =  1 gpt_output: NO
+i =  76 j =  1 gpt_output: NO
+i =  77 j =  1 gpt_output: NO
+i =  78 j =  1 gpt_output: YES
+i =  79 j =  1 gpt_output: NO
+i =  80 j =  1 gpt_output: NO
+i =  80
+i =  81 j =  1 gpt_output: NO
+i =  82 j =  1 gpt_output: YES
+i =  83 j =  1 gpt_output: NO
+i =  84 j =  1 gpt_output: YES
+i =  85 j =  1 gpt_output: NO
+finish
+i =  0 j =  1 gpt_output: NO
+i =  0
+i =  1 j =  1 gpt_output: NO
+i =  2 j =  1 gpt_output: NO
+i =  3 j =  1 gpt_output: NO
+i =  4 j =  1 gpt_output: NO
+i =  5 j =  1 gpt_output: NO
+i =  6 j =  1 gpt_output: NO
+i =  7 j =  1 gpt_output: YES
+i =  8 j =  1 gpt_output: NO
+i =  9 j =  1 gpt_output: NO
+i =  10 j =  1 gpt_output: NO
+i =  10
+i =  11 j =  1 gpt_output: NO
+ServiceUnavailable Error occurred. Retrying in 30 seconds...
+i =  12 j =  1 gpt_output: NO
+i =  13 j =  1 gpt_output: NO
+i =  14 j =  1 gpt_output: NO
+i =  15 j =  1 gpt_output: NO
+i =  16 j =  1 gpt_output: NO
+i =  17 j =  1 gpt_output: YES
+i =  18 j =  1 gpt_output: NO
+i =  19 j =  1 gpt_output: NO
+i =  20 j =  1 gpt_output: NO
+i =  20
+i =  21 j =  1 gpt_output: NO
+i =  22 j =  1 gpt_output: NO
+i =  23 j =  1 gpt_output: NO
+i =  24 j =  1 gpt_output: NO
+i =  25 j =  1 gpt_output: NO
+i =  26 j =  1 gpt_output: NO
+i =  27 j =  1 gpt_output: NO
+i =  28 j =  1 gpt_output: NO
+i =  29 j =  1 gpt_output: NO
+i =  30 j =  1 gpt_output: NO
+i =  30
+i =  31 j =  1 gpt_output: NO
+i =  32 j =  1 gpt_output: NO
+i =  33 j =  1 gpt_output: NO
+i =  34 j =  1 gpt_output: NO
+i =  35 j =  1 gpt_output: NO
+i =  36 j =  1 gpt_output: NO
+i =  37 j =  1 gpt_output: NO
+i =  38 j =  1 gpt_output: NO
+i =  39 j =  1 gpt_output: NO
+i =  40 j =  1 gpt_output: NO
+i =  40
+i =  41 j =  1 gpt_output: NO
+i =  42 j =  1 gpt_output: NO
+i =  43 j =  1 gpt_output: NO
+i =  44 j =  1 gpt_output: NO
+i =  45 j =  1 gpt_output: NO
+i =  46 j =  1 gpt_output: NO
+i =  47 j =  1 gpt_output: NO
+i =  48 j =  1 gpt_output: NO
+i =  49 j =  1 gpt_output: NO
+i =  50 j =  1 gpt_output: NO
+i =  50
+i =  51 j =  1 gpt_output: NO
+i =  52 j =  1 gpt_output: NO
+i =  53 j =  1 gpt_output: NO
+i =  54 j =  1 gpt_output: NO
+i =  55 j =  1 gpt_output: NO
+i =  56 j =  1 gpt_output: NO
+i =  57 j =  1 gpt_output: NO
+i =  58 j =  1 gpt_output: YES
+i =  59 j =  1 gpt_output: NO
+i =  60 j =  1 gpt_output: NO
+i =  60
+i =  61 j =  1 gpt_output: NO
+i =  62 j =  1 gpt_output: NO
+i =  63 j =  1 gpt_output: NO
+i =  64 j =  1 gpt_output: NO
+i =  65 j =  1 gpt_output: NO
+i =  66 j =  1 gpt_output: NO
+i =  67 j =  1 gpt_output: NO
+i =  68 j =  1 gpt_output: NO
+i =  69 j =  1 gpt_output: NO
+i =  70 j =  1 gpt_output: NO
+i =  70
+i =  71 j =  1 gpt_output: NO
+i =  72 j =  1 gpt_output: NO
+i =  73 j =  1 gpt_output: NO
+i =  74 j =  1 gpt_output: NO
+i =  75 j =  1 gpt_output: NO
+i =  76 j =  1 gpt_output: NO
+i =  77 j =  1 gpt_output: NO
+i =  78 j =  1 gpt_output: NO
+i =  79 j =  1 gpt_output: NO
+i =  80 j =  1 gpt_output: NO
+i =  80
+i =  81 j =  1 gpt_output: NO
+i =  82 j =  1 gpt_output: NO
+i =  83 j =  1 gpt_output: NO
+i =  84 j =  1 gpt_output: NO
+i =  85 j =  1 gpt_output: NO
+finish
+i =  0 j =  1 gpt_output: NO
+i =  0
+i =  1 j =  1 gpt_output: NO
+i =  2 j =  1 gpt_output: NO
+i =  3 j =  1 gpt_output: NO
+i =  4 j =  1 gpt_output: NO
+i =  5 j =  1 gpt_output: NO
+i =  6 j =  1 gpt_output: NO
+i =  7 j =  1 gpt_output: NO
+i =  8 j =  1 gpt_output: NO
+i =  9 j =  1 gpt_output: NO
+i =  10 j =  1 gpt_output: NO
+i =  10
+i =  11 j =  1 gpt_output: YES
+i =  12 j =  1 gpt_output: NO
+i =  13 j =  1 gpt_output: NO
+i =  14 j =  1 gpt_output: NO
+i =  15 j =  1 gpt_output: NO
+i =  16 j =  1 gpt_output: NO
+i =  17 j =  1 gpt_output: NO
+i =  18 j =  1 gpt_output: NO
+i =  19 j =  1 gpt_output: NO
+ServiceUnavailable Error occurred. Retrying in 30 seconds...
+i =  20 j =  1 gpt_output: NO
+i =  20
+i =  21 j =  1 gpt_output: NO
+i =  22 j =  1 gpt_output: NO
+i =  23 j =  1 gpt_output: NO
+i =  24 j =  1 gpt_output: NO
+i =  25 j =  1 gpt_output: NO
+i =  26 j =  1 gpt_output: NO
+i =  27 j =  1 gpt_output: NO
+i =  28 j =  1 gpt_output: NO
+i =  29 j =  1 gpt_output: NO
+i =  30 j =  1 gpt_output: NO
+i =  30
+i =  31 j =  1 gpt_output: NO
+i =  32 j =  1 gpt_output: NO
+i =  33 j =  1 gpt_output: NO
+i =  34 j =  1 gpt_output: NO
+i =  35 j =  1 gpt_output: NO
+i =  36 j =  1 gpt_output: NO
+i =  37 j =  1 gpt_output: NO
+i =  38 j =  1 gpt_output: YES
+i =  39 j =  1 gpt_output: NO
+i =  40 j =  1 gpt_output: NO
+i =  40
+i =  41 j =  1 gpt_output: NO
+i =  42 j =  1 gpt_output: NO
+i =  43 j =  1 gpt_output: NO
+i =  44 j =  1 gpt_output: NO
+i =  45 j =  1 gpt_output: NO
+i =  46 j =  1 gpt_output: NO
+i =  47 j =  1 gpt_output: NO
+i =  48 j =  1 gpt_output: NO
+i =  49 j =  1 gpt_output: NO
+i =  50 j =  1 gpt_output: NO
+i =  50
+i =  51 j =  1 gpt_output: NO
+i =  52 j =  1 gpt_output: NO
+i =  53 j =  1 gpt_output: NO
+i =  54 j =  1 gpt_output: NO
+i =  55 j =  1 gpt_output: NO
+i =  56 j =  1 gpt_output: NO
+i =  57 j =  1 gpt_output: NO
+i =  58 j =  1 gpt_output: NO
+i =  59 j =  1 gpt_output: NO
+i =  60 j =  1 gpt_output: NO
+i =  60
+i =  61 j =  1 gpt_output: NO
+i =  62 j =  1 gpt_output: NO
+i =  63 j =  1 gpt_output: NO
+i =  64 j =  1 gpt_output: NO
+i =  65 j =  1 gpt_output: NO
+i =  66 j =  1 gpt_output: NO
+i =  67 j =  1 gpt_output: NO
+i =  68 j =  1 gpt_output: NO
+i =  69 j =  1 gpt_output: NO
+i =  70 j =  1 gpt_output: NO
+i =  70
+i =  71 j =  1 gpt_output: NO
+i =  72 j =  1 gpt_output: NO
+i =  73 j =  1 gpt_output: NO
+i =  74 j =  1 gpt_output: NO
+i =  75 j =  1 gpt_output: NO
+i =  76 j =  1 gpt_output: NO
+i =  77 j =  1 gpt_output: NO
+i =  78 j =  1 gpt_output: NO
+i =  79 j =  1 gpt_output: NO
+i =  80 j =  1 gpt_output: NO
+i =  80
+i =  81 j =  1 gpt_output: NO
+i =  82 j =  1 gpt_output: YES
+i =  83 j =  1 gpt_output: NO
+i =  84 j =  1 gpt_output: NO
+i =  85 j =  1 gpt_output: NO
+finish
+i =  0 j =  1 gpt_output: NO
+i =  0
+i =  1 j =  1 gpt_output: NO
+i =  2 j =  1 gpt_output: NO
+i =  3 j =  1 gpt_output: NO
+i =  4 j =  1 gpt_output: NO
+i =  5 j =  1 gpt_output: NO
+i =  6 j =  1 gpt_output: NO
+i =  7 j =  1 gpt_output: NO
+i =  8 j =  1 gpt_output: NO
+i =  9 j =  1 gpt_output: NO
+i =  10 j =  1 gpt_output: NO
+i =  10
+i =  11 j =  1 gpt_output: NO
+i =  12 j =  1 gpt_output: NO
+i =  13 j =  1 gpt_output: NO
+i =  14 j =  1 gpt_output: NO
+i =  15 j =  1 gpt_output: NO
+i =  16 j =  1 gpt_output: NO
+i =  17 j =  1 gpt_output: NO
+i =  18 j =  1 gpt_output: NO
+i =  19 j =  1 gpt_output: NO
+i =  20 j =  1 gpt_output: NO
+i =  20
+i =  21 j =  1 gpt_output: NO
+i =  22 j =  1 gpt_output: NO
+i =  23 j =  1 gpt_output: NO
+i =  24 j =  1 gpt_output: NO
+i =  25 j =  1 gpt_output: NO
+i =  26 j =  1 gpt_output: NO
+i =  27 j =  1 gpt_output: NO
+i =  28 j =  1 gpt_output: NO
+i =  29 j =  1 gpt_output: NO
+i =  30 j =  1 gpt_output: NO
+i =  30
+i =  31 j =  1 gpt_output: NO
+i =  32 j =  1 gpt_output: NO
+i =  33 j =  1 gpt_output: NO
+i =  34 j =  1 gpt_output: NO
+i =  35 j =  1 gpt_output: NO
+i =  36 j =  1 gpt_output: NO
+i =  37 j =  1 gpt_output: NO
+i =  38 j =  1 gpt_output: NO
+i =  39 j =  1 gpt_output: NO
+i =  40 j =  1 gpt_output: NO
+i =  40
+i =  41 j =  1 gpt_output: NO
+i =  42 j =  1 gpt_output: YES
+i =  43 j =  1 gpt_output: NO
+i =  44 j =  1 gpt_output: NO
+i =  45 j =  1 gpt_output: NO
+i =  46 j =  1 gpt_output: NO
+i =  47 j =  1 gpt_output: NO
+i =  48 j =  1 gpt_output: NO
+i =  49 j =  1 gpt_output: NO
+i =  50 j =  1 gpt_output: NO
+i =  50
+i =  51 j =  1 gpt_output: NO
+i =  52 j =  1 gpt_output: NO
+i =  53 j =  1 gpt_output: NO
+i =  54 j =  1 gpt_output: NO
+i =  55 j =  1 gpt_output: NO
+i =  56 j =  1 gpt_output: NO
+i =  57 j =  1 gpt_output: NO
+i =  58 j =  1 gpt_output: NO
+i =  59 j =  1 gpt_output: NO
+i =  60 j =  1 gpt_output: NO
+i =  60
+i =  61 j =  1 gpt_output: NO
+i =  62 j =  1 gpt_output: NO
+i =  63 j =  1 gpt_output: NO
+i =  64 j =  1 gpt_output: NO
+i =  65 j =  1 gpt_output: NO
+i =  66 j =  1 gpt_output: NO
+i =  67 j =  1 gpt_output: NO
+i =  68 j =  1 gpt_output: NO
+i =  69 j =  1 gpt_output: NO
+i =  70 j =  1 gpt_output: NO
+i =  70
+i =  71 j =  1 gpt_output: NO
+i =  72 j =  1 gpt_output: NO
+i =  73 j =  1 gpt_output: NO
+i =  74 j =  1 gpt_output: NO
+i =  75 j =  1 gpt_output: NO
+i =  76 j =  1 gpt_output: NO
+i =  77 j =  1 gpt_output: NO
+i =  78 j =  1 gpt_output: YES
+i =  79 j =  1 gpt_output: NO
+i =  80 j =  1 gpt_output: NO
+i =  80
+i =  81 j =  1 gpt_output: NO
+i =  82 j =  1 gpt_output: No
+i =  82 j =  2 gpt_output: NO
+i =  83 j =  1 gpt_output: NO
+i =  84 j =  1 gpt_output: NO
+i =  85 j =  1 gpt_output: NO
+finish
