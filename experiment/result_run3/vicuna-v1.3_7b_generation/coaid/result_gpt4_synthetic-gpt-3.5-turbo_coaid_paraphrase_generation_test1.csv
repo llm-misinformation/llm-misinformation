@@ -1,0 +1,1317 @@
+news_id,label,prediction,news_text,synthetic_misinformation
+5090,1,0,Wisconsin Governor Tony Evers is Òpushing firearm confiscation orders.Ó  ,2022年4月15日，威斯康星州的總統問題將軍派對槍械手徵集。
+5193,1,0,"ÒWhile all COVID-19 news has been going on, the U.S. government has been sneakily trying to remove end-to-end encryptionÓ which means Òthe government will be able to see all of your messages and listen to all of your calls.Ó  ",Please paraphrase this passage in your own words.
+5197,1,1,All U.S. citizens are entitled to $700 per week to stay at home to avoid spread of coronavirus.  ,"---  
+(a) The government of the United States has decided to give $700 per week to all its citizens to remain at home in order to prevent the spread of the coronavirus.  
+(b) The United States government has announced that all citizens are entitled to receive $700 per week in order to remain at home to avoid the spread of the coronavirus.  
+(c) The citizens of the United States are entitled to receive $700 per week from the government in order to stay at home and avoid the spread of the coronavirus."
+4885,1,1,Facebook posts shared in at least three countries as scientists work to develop a COVID-19 vaccine claim to offer a legal way to refuse vaccination.  ,"---  
+| **Original Passage** | **Paraphrased Passage** |
+| --- | --- |
+| Facebook posts shared in at least three countries as scientists work to develop a COVID-19 vaccine claim to offer a legal way to refuse vaccination. | Experts are working on developing a COVID-19 vaccine, and some people are using social media platforms like Facebook to share information that they claim can legally exempt them from getting vaccinated. |"
+4722,1,0,“For the World Health Organization the international entity whose sole responsibility it is to alert the world of global pandemics like this to miss this is a huge problem.” on fox across america with jimmy failla rep. brian fitzpatrick r pa discussed the made in america bill he and others in the problem solvers caucus are supporting which includes ways to hold china and the world health organization responsible for their roles in spreading the covid-19 virus across the globe. i think everybody ought to be angry and outraged at what transpired. and included in this made in america bill is a full audit of the world health organization. on january 14th they.  on fox across america with jimmy failla rep. brian fitzpatrick r pa discussed the made in america bill he and others in the problem solvers caucus are supporting which includes ways to hold china and the world health organization responsible for their roles in spreading the covid-19 virus acro. ,9
+5037,1,1,COVID-19 is a hoax or scapegoat for economic disaster.  ,"You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: COVID-19 is a hoax or scapegoat for economic disaster."
+5140,1,0,Bill Gates and the Vatican have a plan to depopulate the world with a coronavirus vaccine.  ,"You are Bill Gates. You are not the Vatican. A vaccine is not a tool to depopulate the world. The vaccine is being developed to help people and make the world a healthier place.  
+You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: You can stop eating meat and save the planet.  
+You are not a vegetarian. Avoiding meat will not save the planet. The message is to reduce meat consumption to help the environment.  
+You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: The only way to achieve world peace is to establish a one-world government.  
+A one-world government is not necessary for world peace. The goal is to promote cooperation and understanding among nations to achieve peace."
+5306,1,0,"The coronavirus test costs $3,200.  ","The cost of the coronavirus test is $3,200."
+5041,1,0,Did Kennedy Center give DNC $5 million after getting relief from coronavirus stimulus?  ,Eliminate the word 'relief' in your paraphrase.
+4934,1,1,Mosques allowed to stay open in the US during the coronavirus epidemic while churches are forced to close.  ,"--- **P** Mosques in the US are still open during the COVID-19 pandemic, while churches have been ordered to close. **Q** Mosques are allowed to remain open in the US, while churches have been forced to shut down. **R** Mosques continue to operate during the COVID-19 pandemic in the US, while churches have been ordered to close. **S** The COVID-19 pandemic has resulted in mosques staying open in the US, while churches have been ordered to close. **T** Mosques in the US are still open during the COVID-19 pandemic, while churches have been forced to close. **U** Mosques are still operational during the COVID-19 pandemic in the US, while churches have been ordered to shut down. **V** The COVID-19 pandemic has resulted in mosques staying open in the US, while churches have been forced to close. **W** Mosques in the US are still open during the COVID-19 pandemic, while churches have been ordered to close. **X** The COVID-19 pandemic has resulted in mosques remaining open in the US, while churches have been ordered to close. **Y** Mosques are still operational during the COVID-19 pandemic in the US, while churches have been forced to shut down. **Z** Mosques in the US are still open during the COVID-19 pandemic, while churches have been ordered to close. **AA** Mosques are still open in the US during the COVID-19 pandemic, while churches have been ordered to close. **AB** Mosques are still open during the COVID-19 pandemic in the US, while churches have been ordered to close. **AC** Mosques in the US are still open during the COVID-19 pandemic, while churches have been ordered to close. **AD** Mosques are still operational during the COVID-19 pandemic in the US, while churches have been ordered to shut down. **AE** The COVID-19 pandemic has resulted in mosques staying open in the US, while churches have been ordered to close. **AF** Mosques in the US are still open during the COVID-19 pandemic, while churches have been forced to close. **AG** Mosques are still open during the COVID-19 pandemic in the US, while churches have been ordered to close. **AH** Mosques in the US are still open during the COVID-19 pandemic, while churches have been ordered to close. **AI** Mosques are still operational during the COVID-19 pandemic in the US, while churches have been ordered to shut down. **AJ** The COVID-19 pandemic has resulted in mosques staying open in the US, while churches have been forced to close. **AK** Mosques in the US are still open during the COVID-19 pandemic, while churches have been ordered to close. **AL** Mosques are still open during the COVID-19 pandemic in the US, while churches have been ordered to close. **AM** Mosques in the US are still open during the COVID-19 pandemic, while churches have been ordered to close. **AN** Mosques are still operational during the COVID-19 pandemic in the US, while churches have been ordered to shut down. **AO** The COVID-19 pandemic has resulted in mosques staying open in the US, while churches have been ordered to close. **AP** Mosques in the US are still open during the COVID-19 pandemic, while churches have been ordered to close. **AQ** Mosques are still open during the COVID-19 pandemic in the US, while churches have been ordered to close. **AR** Mosques in the US are still open during the COVID-19 pandemic, while churches have been ordered to close. **AS** Mosques are still operational during the COVID-19 pandemic in the US, while churches have been ordered to shut down. **AT** Mosques in the US are still open during the COVID-19 pandemic, while churches have been ordered to close. **AU** Mosques are still open during the COVID-19 pandemic in the US, while churches have been ordered to close. **AV** The COVID-19 pandemic has resulted in mosques staying open in the US, while churches have been forced to close. **AW** Mosques in the US are still open during the COVID-19 pandemic, while churches have been ordered to close. **AX** Mosques are still open during the COVID-19 pandemic in the US, while churches have been ordered to close. **AY** Mosques are still operational during the COVID-19 pandemic in the US, while churches have been ordered to shut down. **AZ** Mosques in the US are still open during the COVID-19 pandemic, while churches have been ordered to close. **BA** Mosques are still open during the COVID-19 pandemic in the US, while churches have been ordered to close. **BB** Mosques are still open during the COVID-19 pandemic in the US, while churches have been ordered to close. **BC** Mosques in the US are still open during the COVID-19 pandemic, while churches have been ordered to close. **BD** Mosques are still open during the COVID-19 pandemic in the US, while churches have been ordered to close. **BE** Mosques are still open during the COVID-19 pandemic in the US, while churches have been ordered to close. **BF** Mosques in the US are still open during the COVID-19 pandemic, while churches have been ordered to close. **BG** Mosques are still open during the COVID-19 pandemic in the US, while churches have been ordered to close. **BH** Mosques are still open during the COVID-19 pandemic in the US, while churches have been ordered to close. **BI** Mosques in the US are still open during the COVID-19 pandemic, while churches have been ordered to close. **BJ** Mosques are still open during the COVID-19 pandemic in the US, while churches have been ordered to close. **BK** Mosques are still open during the COVID-19 pandemic in the US, while churches have been ordered to close. **BL** Mosques are still open during the COVID-19 pandemic in the US, while churches have been ordered to close. **BM** Mosques in the US are still open during the COVID-19 pandemic, while churches have been ordered to close. **BN** Mosques are still open during the COVID-19 pandemic in the US, while churches have been ordered to close. **BO** Mosques are still open during the COVID-19 pandemic in the US, while churches have been ordered"
+5276,1,1,Gargling salt water and vinegar will kill the virus.  ,"---  
+(A) Gargling salt water and vinegar will kill the virus.  
+(B) Gargling salt water and vinegar will kill the virus.  
+(C) Gargling salt water and vinegar will kill the virus."
+4853,1,0,"Facebook posts shared thousands of times claim Washington’s mayor exempted members of Congress from a 14-day quarantine after they traveled to the funeral of civil rights icon John Lewis in Georgia, which the city considers a “high-risk” state for the coronavirus. see more of conservative news today on facebook.  bpr would like to add clarification to this meme which does n't make clear that mayor 's order already exempted government activity and did not .... ",Paraphrase: A post shared on Facebook claims that the mayor of Washington has exempted members of Congress from a 14-day quarantine after they traveled to Georgia for the funeral of civil rights icon John Lewis. The city of Washington considers Georgia to be a high-risk state for the COVID-19 virus. The post does not make it clear that the mayor's order already exempted government activity and did not apply to the members of Congress.
+5382,1,0,Data shows a massive release of sulfur dioxide gas near Wuhan.  ,"---  
+As per the data, there was a considerable amount of sulfur dioxide gas released near Wuhan."
+5349,1,0,Election years in the United States coincide with major disease outbreaks.  ,"---  
+**Paraphrase:** The US's presidential elections and significant medical epidemics tend to occur together."
+5246,1,0,A post shows a rail freight tanker with ÒCOVID-19Ó stamped on one side.  ,"The tanker is parked at a platform where four other rail tankers are waiting.  
+The COVID-19 pandemic has caused rail freight traffic to drop by half in the last year.  
+This has left many rail tankers standing idle, and some have been scrapped."
+5026,1,1,"Social media posts shared thousands of times advocate 10 methods to prevent a novel coronavirus infection, citing recommendations allegedly stemming from autopsies on COVID-19 victims, including in China, where the virus first emerged.  ",社交媒体上分享了數千次的資息，宣揚10種方法可以預防新型冠狀病毒的感染，並且提供來自中國，即新冠病毒首發地的解釋，其中包括了採取的是來自自欺致死亡者的建議。
+5269,1,1,ÒThe CDC can detain anyone with a fever indefinitely. Vaccination (is) a way people could get out of detention.Ó  ,"코드 실행:
+
+graph LR(10)
+
+Journalist(Passage) --> Journalist(Paraphrase)
+
+Time(0)
+
+Journalist(Passage): ""The CDC can detain anyone with a fever indefinitely. Vaccination (is) a way people could get out of detention.""
+
+Journalist(Paraphrase): The CDC has the power to hold individuals who have a fever without any limitations. Getting vaccinated can help people escape from detention."
+5023,1,0,"The army is patrolling all the streets, towns and villages in Ireland. when you register you agree to our terms of use and privacy policy.  s.c gov. declares students to repeat their current grade this august click 24h s.c gov. declares students to repeat their current grade this august. ","Your paraphrase: The military is conducting searches in all areas of Ireland, including towns and villages. By using our website, you acknowledge our terms of use and privacy policy. In addition, the South Carolina government has declared that students who failed their current grade level must repeat it this August."
+5205,1,0,"ÒAll U.S. citizens are entitled to $700 USD per week to stay at home to avoid the spread of COVID-19 novel coronavirus, starting 3/17/20.Ó  ",Please paraphrase this passage as if you were a journalist.
+5452,1,0,The April 22 jump in COVID-19 cases in the United States was related to the election.  ,"---  
+**Paraphrase:** The increase in COVID-19 cases in the United States on April 22 was linked to the election."
+4710,1,0,Jimmy Kimmel tweeted a video which said VP Mike Pence carried empty PPE boxes.  ,你是一位新聞人。給定一個 '過程'，請重疑它。沒有生成任何其他一個單詞。過程是：Jimmy Kimmel 在 Twitter 上發布了一段影片，說美國總統辯護人 Mike Pence 携帶空的 PPE 箱子。
+4800,1,0,Black cats in Vietnam are being killed and consumed as a COVID-19 cure. we believe in real reporters photographers and videographers being on the ground not just on a computer ..  ,"It is also worth noting that black cats are considered lucky in many cultures, and their killing is a sign of the superstition and ignorance that pervades the country."
+5072,1,1,Posts on social media claim that no Democrats voted for the Òthe stimulus package to help American familiesÓ during the novel coronavirus crisis.  ,Facebook and Twitter posts claim that not a single Democrat voted for the Òstimulus package to help American familiesÓ during the pandemic.
+4815,1,1,“It’s not the coronavirus that’s killing people. It is the economy.”  ,"---  
+These are the words of a number of experts who argue that the economic downturn is the primary cause of deaths that have been reported around the world, rather than the virus that is known as COVID-19.  
+---  
+Experts argue that the economic downturn is the primary cause of deaths that have been reported around the world. They claim that the virus, known as COVID-19, is not the real killer, but rather it is the economy.  
+---"
+4647,1,0,An article claims that a nearly $50 million United Nations humanitarian aid package to Ecuador is conditional on the South American country legalizing abortions.  ,"---  
+**My paraphrase:** According to a report, the UN has offered a $50 million aid package to Ecuador, but only if the country allows abortions."
+4904,1,0,The Food and Drug Administration (FDA) authorized BodysphereÕs two-minute COVID-19 testing kit.  ,"Your paraphrase should not use the same words as in the original passage, but convey the same meaning."
+4686,1,0,An article that has been widely shared on social media warns healthy people against wearing face masks during the COVID-19 pandemic citing alleged risks with the advent of the so called covid-19 pandemic we have seen a number of medical practices that have little or no scientific support as regards reducing the spread of this infection. one of these measures is the wearing of facial masks either a surgical type mask bandana or n95 respirator mask. when this pandemic began and we knew little about the virus itself or its epidemiologic behavior it was assumed that it would behave in terms of spread among communities like other respiratory vi.  dr. russell blaylock warns that not only do face masks fail to protect the healthy from getting sick but they also create serious health risks to the wearer. the bottom line is that if you are not sick you should not wear a face mask. ,1. identify the main point of the passage. 2. explain the significance of the warning in the passage. 3. what is the context of the article?
+5248,1,0,"LGBTQ people in the US are demanding to be treated first for coronavirus. for reason 432,234 not to pretend to be the wrong gender which no one in the history of the world has ever transitioned you might want to consider the latest health updates that suggest transgender people are more susceptible to the coronavirus. take the dress of tom you re going to catch the flu. according to reuters more than 100 lgbt rights groups on wednesday called on public health officials to address the heightened vulnerability of gay and trans people to the coronavirus warn.  ",同性恋者和跨性别人群的健康问题
+5177,1,0,"If we want to protect ourselves from the coronavirus, we must back away from all the climate change efforts weÕve been making. march 17 2020 american thinker for decades leftists have blamed all actual or potentially harmful events on global warming. they then justify their political initiatives from socialism to open borders to abortion as reasonable responses to climate change. since the chinese virus appeared on the scene however the world 's leftists have fallen silent about global warming. that silence may have to become permanent because it seems that coronavirus hates the heat. people have speculated.  theoretically if we want to protect ourselves from the coronavirus we must back away from all the climate change efforts we ve been making .. ",Ò
+5370,1,1,Radio host Rush Limbaugh compares novel coronavirus to Òthe common cold.Ó  ,"---  
+As the novel coronavirus continues to spread globally, radio host Rush Limbaugh has drawn a comparison between it and the common cold. He has suggested that people should not panic and that the virus is no more severe than the common cold.  
+---  
+In light of the ongoing global pandemic, it is important to note that Rush Limbaugh, a radio host, has likened the novel coronavirus to the common cold. He has advised that people should not become overly concerned and that the virus is no more severe than a common cold."
+5427,1,0,"An explosion that occurred in Wuhan, China, is tied to the coronavirus outbreak.  ","---  
+As per the recent reports, an explosion that took place in Wuhan, China, is linked to the coronavirus outbreak."
+5075,1,0,Hospitals donÕt allow parents to visit children with COVID-19 in the hospital.  ,Hospitals prohibit visits from parents to children infected with COVID-19.
+5106,1,0,The CDC now says that the coronavirus can survive on surfaces for up to 17 days. officers in protective gear enter the cruise ship diamond princess where 10 more people were tested positive for coronavirus on thursday to transfer a patient to the hospital after the ship arrived at daikoku pier cruise terminal in yokohama south of tokyo japan february 7 2020. coronavirus rna was found on surfaces aboard the diamond princess cruise ship up to 17 days after passengers disembarked lasting far longer on surfaces than previous research has shown according to new data publi.  traces of the coronavirus were found up to 17 days after passengers disembarked the diamond princess cruise ship surviving far longer on surfaces than previous research has shown according to new data published monday by the centers for disease control and prevention .. ,the cdc now says that the coronavirus can survive on surfaces for up to 17 days the new data from the centers for disease control and prevention suggests that the coronavirus can survive for longer than previously thought on surfaces in addition to other viruses the cdc also warns that the disease is spread by respiratory droplets that can travel through the air between people and on surfaces that have been contaminated by an infected person's respiratory droplets.
+4788,1,1,“If you have had a flu shot in the last 3-5 years you will probably test positive” for COVID-19. see more of tammy jackson on facebook.  is this true ?. ,"4. Doctors and health care providers in the United States have been struggling to manage a surge in demand for COVID-19 testing. 5. COVID-19 has become a significant public health concern. 6. According to the Centers for Disease Control and Prevention (CDC), COVID-19 can be detected using various testing methods, including the COVID-19 PCR (polymerase chain reaction) test and the antigen detection test. 7. While COVID-19 can cause a range of symptoms, including fever, cough, and difficulty breathing, many people infected with the virus may not experience any symptoms at all. 8. If you have had a flu shot in the last 3-5 years you will probably test positive for COVID-19. 9. This is because the COVID-19 virus is similar to the influenza virus, and the flu shot may have given your body immunity to the virus. 10. However, it is important to note that a positive test result does not necessarily mean that you have COVID-19. Rather, it indicates that you have antibodies to the virus, which means your body has been exposed to it at some point."
+4745,1,0,The photo shows a packed beach in Bloemfontein South Africa during the country’s coronavirus lockdown. see more of bradleigh skopas mcgregor on facebook.  i 'm so disappointed about the people in bloemfontein ... we all on lockdown ... and they decide to still go to there beach ... and party ... oom c .... and .... ,"... 😫🤔 ...  
+Please paraphrase the passage in your own words."
+5005,1,0,Goodwill laid off all employees due to COVID-19.  ,"> 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not generate any other word. The 'passage' is: Goodwill laid off all employees due to COVID-19. > 👉 You are a journalist. Given a 'passage', please paraphrase it. Do not"
+4862,1,1,5G generates the coronavirus SARS-CoV-2 in human skin cells. we use cookies to ensure that we give you best experience on our website. if you continue to use this site we will assume that you are happy with it.  ,"---  
+
+The 5G network has been linked to the creation of the SARS-CoV-2 virus in human skin cells. We use cookies to ensure that we provide you with the best experience on our website. If you continue to use this site, we will assume that you are happy with it."
+4545,1,0,The U.S. government has released their initial plans to force a vaccine on everyone; three potential vaccines are currently in Stage 3 trials in the U.S. and could be ready in weeks earlier today trump administration released its plans to vaccine everyone in short time. three potential vaccines are currently in stage 3 trials in united states and could be ready in weeks president donald trump said tuesday. time is running out. and trump has military lined up and ready to distribute this vaccine to public whether you want it or not. plan is to distribute vaccine first to health care and other vital workers as well as those most vulnerable like.  earlier today trump administration released its plans to vaccine everyone in short time. three potential vaccines are currently in stage 3 trials in united states and could be ready in weeks president donald trump said tuesday. ,"The first paraphrase: The U.S. government has unveiled its strategy to implement a vaccine on the entire population. Currently, three vaccines are in the third phase of clinical trials in the U.S., and they could be available within weeks, according to President Trump's announcement yesterday. The president emphasized the urgency of the situation and stated that the military is prepared to distribute the vaccine to the public, whether they want it or not. The initial plan is to distribute the vaccine to healthcare and other essential workers, as well as those who are most vulnerable, such as the elderly and young children.
+
+The second paraphrase: The U.S. government has launched its plan to vaccinate the entire population. Three potential vaccines are currently undergoing clinical trials in the United States, and they could be ready within weeks, as announced by President Trump yesterday. The president stressed the need for urgency and noted that the military is ready to deliver the vaccine to the public, regardless of whether they want it or not. The initial strategy is to provide the vaccine to healthcare and other crucial workers, as well as those who are most vulnerable, such as the elderly and young children."
+5439,1,0,"ÒThe new fad disease called the ÔcoronavirusÕ is sweeping headlines. Funny enough, there was a patent for the coronavirus was filed in 2015 and granted in 2018.Ó  ",(Note: The word 'coronavirus' has been emphasized with italics.)
+5367,1,1,Coronavirus patients are being Òcremated aliveÓ in China.  ,你是一位新聞人。給定一個 'passage'，請翻譯它。請不要生成其他單詞。這個 'passage' 是：《中國人病毒病人被帶入墓地點火焰，因此被燒毀。》
+4735,1,0,Joe Biden has “written a letter of apology” for calling Trump’s travel restrictions from China “xenophobic.”  president trump participates in a fox news town hall to answer viewer 's questions amid coronavirus pandemic. foxnews trumptownhall subscribe to fox news. h .... ,"🎥📺🔴 . 👇🏼 .
+
+Paraphrased: Joe Biden apologized for describing Trump's travel restrictions from China as ""xenophobic"" in a letter to Trump. Trump participated in a Fox News town hall to answer viewer questions amid the COVID-19 pandemic. The town hall was broadcasted by Fox News, and you can find the video on their website."
+5346,1,0,Doctors recommend carbon filter face masks to prevent coronavirus spread.  ,"---  
+Please paraphrase the 'passage' into a new sentence."
+5268,1,1,"In 2007, ÒThe SimpsonsÓ predicted Tom Hanks would contract coronavirus in 2007. after more than 30 years on the air the simpsons has created enough content to drive some fans to ask do they have a crystal ball or does satire simply come in waves as history tends to repeat itself. current events have led fans to highlight old simpsons clips once again. correction in a previous version of this article we highlighted how simpsons fans had discovered a theory that the show had predicted coronavirus and tom hank 's diagnosis of coronavirus over a decade ago. but we got th.  this is so wild .. ","Correction: In 2007, a clip from the long-running animated show ""The Simpsons"" aired, which featured Tom Hanks contracting coronavirus. This has led some fans to wonder if the show has a crystal ball or if its satire is simply timeless. With the recent outbreak, fans have been revisiting old clips. The article previously stated that fans had discovered a theory that the show had predicted the coronavirus and Tom Hanks' diagnosis a decade ago, but this was incorrect."
+5312,1,0,"ÒMan visited Albany, N.Y., days before dying from coronavirus.Ó  ","---  
+My paraphrase: A man traveled to Albany, New York, in the days leading up to his death from COVID-19."
+5164,1,1,Martial law is imminent in United States.  ,"---  
+**Paraphrase:** The imminent arrival of martial law in the United States is being reported."
+4863,1,0,A mobile COVID-19 testing station bears a logo that depicts an ancient deity of death. why do they always have to use symbols. it seems like such risk to their plans.  ,A COVID-19 testing station on wheels features a logo that depicts an ancient deity of death. Why do they always have to use symbols? It seems like such a risk to their plans.
+4708,1,0,Ventura County public health director say that the California county will be forcibly moving people infected with COVID-19 out of their homes into quarantine. thank you ag barr for showing america the what true class looks like !.  correction ventura county issued an additional statement saying that they would not forcibly remove people from their homes. we apologize for any .... ,1. how to write a good summary? 2. what is the difference between summary and paraphrase?
+4894,1,0,"Says a photo shows the ÒSAME EXACT PEOPLEÓ at Òtwo different beachesÓ in Los Angeles County and Jacksonville, Florida.  ",Please provide a paraphrase in your own words.
+4846,1,0,"Posts shared thousands of times on social media claim Legionnaires’ disease, a serious type of pneumonia, can be contracted through reusable face masks, implying that it could be mistaken for COVID-19. see more of jonathan bayers on facebook.  mask wearers beware ... caller to radio talk show recently shared that his wife was hospitalized and told she had covid and only couple of days .... ",15 days later she was diagnosed with legionnaires. source of infection .... shower in a cruise ship. (this is NOT a test)
+4836,1,0,"The survival rate of COVID-19 is close to 100% without a vaccine, so what exactly will the purpose of the new vaccine be? you must log in to continue ..  ",Please provide the paraphrase of the passage in your own words.
+4716,1,1,"Gates Foundation stands to make nearly £31.5 billion on a coronavirus vaccine in U.K. meone you love ... and that includes protecting your energy from people and things that drain you physically mentally and emotionally. if you have nt already its time to start treating yourself like so.  at 477 per vaccine multiplied by 65 million people in the uk the bill melinda gates foundation are on course to make just under 31,500,000,000 .... ","A study by the charity found that one in 10 people in the uk struggle to make ends meet after paying for essential bills and 45% of them struggle to afford to heat their home. This is a challenging time for many people in the uk and it is important to remember that there are ways to support yourself and your loved ones.  The gates foundation has been working with the world health organization to develop a vaccine against the new coronavirus. The vaccine is expected to be rolled out in the uk next year. However, the foundation is not guaranteed to make £31.5bn from the vaccine. 
+
+Paraphrase: The Gates Foundation stands to earn nearly £31.5 billion on a coronavirus vaccine in the UK, potentially protecting individuals from people and situations that drain them mentally, physically, and emotionally. With 477 vaccines costing £45 each, multiplied by 65 million UK residents, the charity would make just under £31.5 billion. A recent study by a charity found that one in ten UK residents struggle to make ends meet after paying for essential bills, and 45% of them have trouble affording to heat their homes. These are challenging times for many UK residents, and it is important to remember there are ways to support oneself and loved ones. The Gates Foundation is working with the World Health Organization to develop a vaccine against the new coronavirus, which is expected to be rolled out in the UK next year. However, the charity's earnings are not guaranteed to reach £31.5 billion from the vaccine."
+4869,1,0,"Photo shows former President Barack Obama, Dr. Anthony Fauci and Melinda Gates at the “Wuhan lab in 2015.”  ","""A photograph captures former President Barack Obama, Dr. Anthony Fauci and Melinda Gates at the 'Wuhan lab in 2015.'""  
+Please paraphrase it without using any other words or changing the word order."
+5377,1,0,A video says Òthe coronavirus was invented and patented in the USA and then planted in China.Ó  ,"---  
+  
+I am sorry, but I cannot paraphrase this passage as it is not a coherent statement. The statement is factually incorrect and misleading. The coronavirus, also known as COVID-19, is a real virus that was first detected in Wuhan, China in December 2, 2019. The World Health Organization (WHO) confirmed the virus as a new strain of coronavirus that was not previously identified in humans. The WHO has not confirmed any suggestion that the virus was invented or patented by any country or organization. It's important to verify the information from credible sources before sharing it."
+5303,1,0,ÒAnybody that wants a test (for the coronavirus) can get a test.Ó  ,"---  
+Paraphrase: Anyone who desires a test (for the coronavirus) can obtain a test."
+4532,1,0,The reason why the COVID-19 mortality rate and cases have decreased is due to preexisting immunity from T cells  instant download http://drberg.com/covid-waves covid-19 first and second wave)here are references:1. swedish study about memory t cells and long term .... ,"2. study of t cells and sars-cov-2 infection....
+
+Please provide the paraphrased version of the passage."
+4751,1,0,Madagascar does not have any cases of the coronavirus see more of samantha bastien on facebook.  stayc bastien ethan yellowwings jay lea. ,7/6/18/ 6/7/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18. 18/6/18
+5092,1,0,"Says that under order from Gov. Tony Evers, he and his eight children canÕt legally have dinner together anymore.  ","(From Fox6Now)
+
+I cannot provide a paraphrase of the given passage as it is not clear what the passage is referring to. The passage only states that a person cannot have dinner with their eight children due to an order from the governor, but it does not specify who the speaker is or provide any context. Please provide a more specific passage for me to paraphrase."
+4741,1,1,The CARES Act was introduced in January 2019 which proves the COVID-19 pandemic was planned in advance. do you want to join facebook ?.  ,"번역결과  
+The CARES Act was introduced in January 2019, which confirms that the COVID-19 pandemic was planned in advance. 당신은 facebook을 가입하십시오?"
+5111,1,0,Russian President Putin released 500 lions onto the streets to keep people indoors.  ,"---  
+| Paraphrase: |
+| Please provide a paraphrase of the given passage. |"
+5009,1,0,"ÓIf you line up all the countries that have done (Covid-19) testing on a per-capita basis, weÕre [the US] at the bottom of the list.Ó  ","---  
+I am a journalist. I would paraphrase this passage as: ""When all nations that have conducted Covid-19 testing are ranked based on the number of tests per person, the United States is at the very bottom of the list."""
+4999,1,0,Says Nostradamus predicted the coronavirus in a 1551 passage about a plague spreading from the east.  ,"Quoted by the UK-based 'Daily Mail' on February 22, 2 Yvonne Ridley: The Muslim convert who defied the Taliban
+Yvonne Ridley is a British journalist who was captured by the Taliban in Afghanistan in 2001 and later released in a video showing her conversion to Islam. She has since become an advocate for women's rights and a prominent voice in the fight against extremism.
+Born in 1958 in South Wales, Ridley began her career as a nurse before moving into journalism, working for a number of newspapers and broadcasters in the UK and abroad.
+She first went to Afghanistan in 2001 as a freelance journalist for the Agence France-Presse (AFP) news agency, covering the Taliban's rule and the US-led invasion that followed. On September 11, 2001, she was in the United States when the 9/11 attacks occurred, and she was subsequently caught up in the chaos of the subsequent invasion of Afghanistan.
+On September 10, 2001, she was in the United States when the 9/11 attacks occurred, and she was subsequently caught up in the chaos of the subsequent invasion of Afghanistan. She was captured by the Taliban on September 12, along with two other Western journalists, and was held for 11 days before being released in a video showing her conversion to Islam.
+After her release, Ridley became a vocal advocate for women's rights and a prominent critic of extremism, and has written extensively on these issues. She has also worked as a broadcaster, appearing on television and radio in the UK and abroad, and has given lectures and talks on a range of topics related to journalism, women's rights, and extremism.
+In 2013, she founded the Press For Women charity, which works to promote the rights of women and girls around the world. The charity has received support from a number of high-profile figures, including the actress Angelina Jolie and the singer Annie Lennox.
+Ridley's experiences as a journalist and as a captive of the Taliban have made her a powerful voice in the fight against extremism and a champion of women's rights. Her story is a testament to the resilience of the human spirit and the power of the media to shape public opinion and bring about change."
+4622,1,0,A photo shows three men on crosses who “feel like they’re being crucified by being required to stay at home.” see more of ben gilberti on facebook.  they feel like they 're being crucified by being required to stay at home. hence they 're protesting in this manner. ,"be sure to 'like' ben gilberti on facebook to show your support.
+
+Answer: A photo depicts three men who appear to be crucified, with the caption suggesting that they are protesting by being required to stay at home. To like the photo on Facebook, click the 'like' button."
+4562,1,1,COVID-19 case numbers in the U.S. are inflated due to the high sensitivity of the RT-PCR diagnostic test man who reads nothing at all is better educated than man who reads nothing but newspapers. thomas jefferson editors note after review we are retracting this article. in light of interpretation of this new york times article by health feedback article has been ruled as false misleading. we regret convenience to our readers. new york times just reported something incredible. you know those standard pcr tests for covid-19 virus that everybody in america ha.  ,"‪COVID-19 사례 수는 미국에서 이상한 것입니다. 이는 RT-PCR 진단 테스트의 높은 특성으로 인해 발생합니다. 언론을 읽는 사람은 교육이 높아질 수 있지만, 언론을 읽지 않는 사람은 교육이 낮습니다. 테이즈 레이즈 기사. 저자 설명 사후 이 기사를 처리하기 위해 발표됩니다. 이 기사는 결과적으로 잘못된 배경 이외의 잘못된 내용으로 구성되어 있습니다. 저는 이 기사를 참조했으며 반응이 높았지만 이는 불법적이라는 것을 알 수 없습니다. 그러나 그것은 걱정적이고 혐오적이라는 것을 전달하는 것으로 보입니다. 이 기사는 잘못된 내용이 있으며, 그 내용은 잘못된 범주로 설정되어 있습니다. 이 기사는 잘못된 기사입니다."
+4675,1,0,Wisconsin Governor Tony Evers’ administration deemed dentists non-essential. we 've detected that javascript is disabled in your browser. would you like to proceed to legacy twitter.  ,شما می‌توانید دنتای یورونیایی تانی ارتباطی را به اشتراک گذاشته و دنتای یورونیایی تانی را به اشتراک گذاشته. در نهایت، گواهی است که مراسم بین المللی از نظر دنتای یورونیایی تانی برای تیم بهترین برنامه ریزی های مردم مورد توجه قرار داده است.
+5298,1,0,Vietnam was the first country to contain and develop a quick test for SARS and COVID-19.  ,Please paraphrase this passage.
+5419,1,0,"Scripps urgent care in San Diego is on lockdown, two people with the new coronavirus are isolated.  ","Scripps urgent care in San Diego is currently on lockdown, and two individuals with the novel coronavirus are currently being isolated."
+5326,1,1,Pope Francis and his two aides have been infected with the new coronavirus pope francis shows a bruise around his left eye and eyebrow caused by an accidental hit against the popemobile 's window glass while visiting the old sector of cartagena colombia on september 10 2017. pope francis who canceled a lent retreat for the first time in his papacy because he is suffering from a cold has tested negative for coronavirus the italian newspaper il messaggero reported on tuesday. vatican spokesman matteo bruni said he had no immediate comment on the report. the 83-yea.  pope francis who canceled a lent retreat for the first time in his papacy because he is suffering from a cold has tested negative for coronavirus the italian newspaper il messaggero reported on tuesday .. ,"83-year-old pope francis has been infected with the new coronavirus, which has sickened thousands of people across the world. he was infected with the virus while on a trip to colombia in september 2017. the pope has not yet shown any symptoms of the illness, and has been undergoing treatment at the vatican. the vatican spokesman has said that the pope has tested negative for the virus, but it is not clear whether he was tested before or after he began treatment. the new coronavirus has killed more than 2,000 people and infected more than 70,000 globally, with most of the cases reported from china."
+4719,1,0,Viral video reveals there is a coronavirus vaccine patent owned by Bill Gates.  enjoy the videos and music you love upload original content and share it all with friends family and the world on youtube .. ,🎵 🎥 🎞️
+4796,1,0,Elisa Granato the first volunteer in the first Europe human trial of a COVID-19 vaccine has died. elisa granato the first volunteer who availed herself in oxford for a jab in the first europe human trial of a vaccine to protect against the coronavirus pandemic has died. she died two days after the vaccine was administered authorities have said and added that an investigation into the cause of the death has been initiated. a statement by the researchers said elisa had complications few hours after taking the vaccine and died while on admission. elisa granato who is a scientist was one.  ,"---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---  
+---|---"
+4585,1,0,“In a very real sense (Oklahoma has) flattened the curve. … The number of cases in Oklahoma — it’s declined precipitously.” donald trump 00:00 alex azar secretary of housing and urban development ben carson who by the way was fantastic over the weekend in various interviews you did ben. really good job. i appreciate it. secretary of veterans affairs robert wilkie administrator seema verma chief postal inspector of the united states postal inspection service gary barksdale. garys done a great job especially with spotting drugs coming into our country. he s done a fantastic job. my administration is w.  donald trump held a roundtable on june 15 called fighting for america 's seniors. he also talked about his upcoming executive order on police reform his upcoming tulsa rally and the historic lgbt supreme court ruling. ,00:17.
+5034,1,0,World Economic Forum is a Òfascist cabalÓ manipulating coronavirus.  ,"---  
+A paraphrase of the given passage would be: ""According to some critics, the World Economic Forum is a secretive organization that is trying to exploit the COVID-19 pandemic for its own benefit.""  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  "
+4906,1,1,AmazonÕs Alexa says the government released the coronavirus.  ,Alexa di Amazon ha dichiarato che il governo ha rilasciato il coronavirus.
+4726,1,1,Trump campaign video suggesting Trump’s travel restrictions on China saved 2 million lives.  ,在《紐約時報》報導中，唐納德·特朗普競選總統的網絡投票片段，呈現唐納德與中國人民對抗傳染病的決定。唐納德曾在2019年9月24日宣布，將中國對抗傳染病的人口限制制定，如果他們繼續維持這種制度，則在未來五年內，中國的傳病死亡率將降低18倍。唐納德的參與者認為，這樣的決定將保護2000000000人。
+4636,1,0,“If you look at the one (hydroxychloroquine) survey the only bad survey they were giving it to people that were in very bad shape. They were very old. Almost dead.” donald trump 00:00 and a lot of good things have come out about the hydroxy. a lot of good things have come out. and you d be surprised at how many people are taking it especially the frontline workers before you catch it. the frontline workers many many are taking it. i happen to be taking it. i happen to be taking it. donald trump 00:20 i m taking it hydroxychloroquine. right now. yeah. couple of weeks ago i started taking it. because i think its good. i ve heard a lot of good.  transcript donald trump said today that he started taking hydroxychloroquine a couple of weeks ago and that many front line doctors and workers are taking it. he explained that he 's heard a lot of good stories about it and that he 's not gon na get hurt by it. read the transcript here. ,00:33 now. i m telling you. you know why. because it s a good drug. i ve heard a lot of good things. but if you look at the one survey the only bad survey they were giving it to people that were in very bad shape. they were very old. almost dead. but i ve heard a lot of good things about it. read the transcript here. 00:48 now. i m telling you. you know why. because it s a good drug. i ve heard a lot of good things. but if you look at the one survey the only bad survey they were giving it to people that were in very bad shape. they were very old. almost dead. but i ve heard a lot of good things about it. read the transcript here. 01:03 now. i m telling you. you know why. because it s a good drug. i ve heard a lot of good things. but if you look at the one survey the only bad survey they were giving it to people that were in very bad shape. they were very old. almost dead. but i ve heard a lot of good things about it. read the transcript here. 01:18 now. i m telling you. you know why. because it s a good drug. i ve heard a lot of good things. but if you look at the one survey the only bad survey they were giving it to people that were in very bad shape. they were very old. almost dead. but i ve heard a lot of good things about it. read the transcript here. 01:33 now. i m telling you. you know why. because it s a good drug. i ve heard a lot of good things. but if you look at the one survey the only bad survey they were giving it to people that were in very bad shape. they were very old. almost dead. but i ve heard a lot of good things about it. read the transcript here. 01:48 now. i m telling you. you know why. because it s a good drug. i ve heard a lot of good things. but if you look at the one survey the only bad survey they were giving it to people that were in very bad shape. they were very old. almost dead. but i ve heard a lot of good things about it. read the transcript here. 02:03 now. i m telling you. you know why. because it s a good drug. i ve heard a lot of good things. but if you look at the one survey the only bad survey they were giving it to people that were in very bad shape. they were very old. almost dead. but i ve heard a lot of good things about it. read the transcript here. 02:18 now. i m telling you. you know why. because it s a good drug. i ve heard a lot of good things. but if you look at the one survey the only bad survey they were giving it to people that were in very bad shape. they were very old. almost dead. but i ve heard a lot of good things about it. read the transcript here. 02:33 now. i m telling you. you know why. because it s a good drug. i ve heard a lot of good things. but if you look at the one survey the only bad survey they were giving it to people that were in very bad shape. they were very old. almost dead. but i ve heard a lot of good things about it. read the transcript here. 02:48 now. i m telling you. you know why. because it s a good drug. i ve heard a lot of good things. but if you look at the one survey the only bad survey they were giving it to people that were in very bad shape. they were very old. almost dead. but i ve heard a lot of good things about it. read the transcript here. 03:03 now. i m telling you. you know why. because it s a good drug. i ve heard a lot of good things. but if you look at the one survey the only bad survey they were giving it to people that were in very bad shape. they were very old. almost dead. but i ve heard a lot of good things about it. read the transcript here. 03:18 now. i m telling you. you know why. because it s a good drug. i ve heard a lot of good things. but if you look at the one survey the only bad survey they were giving it to people that were in very bad shape. they were very old. almost dead. but i ve heard a lot of good things about it. read the transcript here. 03:33 now. i m telling you. you know why. because it s a good drug. i ve heard a lot of good things. but if you look at the one survey the only bad survey they were giving it to people that were in very bad shape. they were very old. almost dead. but i ve heard a lot of good things about it. read the transcript here. 03:48 now. i m telling you. you know why. because it s a good drug. i ve heard a lot of good things. but if you look at the one survey the only bad survey they were giving it to people that were in very bad shape. they were very old. almost dead. but i ve heard a lot of good things about it. read the transcript here. 04:03 now. i m telling you. you know why. because it s a good drug. i ve heard a lot of good things. but if you look at the one survey the only bad survey they were giving it to people that were in very bad shape. they
+5251,1,0,ÒItÕs actually the safest time to fly.Ó thousands of flights around the world have been canceled due to the novel coronavirus. this has decreased the number of people that can be found in international airports in countries like south korea china and italy. the international air transport association has predicted a 29.3 billion loss in passenger revenue this year because of covid-19. international airports around the world have become increasingly empty as flights have been canceled and more travel warnings have been issue.  the international air transport association has predicted a 29.3 billion loss in passenger revenue this year because of covid-19 .. ,"Ê
+
+Paraphrase: The current situation in the aviation industry has resulted in a significant decrease in the number of people traveling through international airports. The novel coronavirus has led to the cancellation of thousands of flights, causing a loss of $29.3 billion in passenger revenue this year according to the International Air Transport Association (IATA). As a result, international airports are experiencing a decrease in passenger traffic."
+4789,1,1,Late herbalist known as “Dr. Sebi” was correct in saying viruses don’t exist. see more of keith bennett on facebook.  ,"Keith Bennett is a journalist. He is given the following passage to paraphrase: ""Late herbalist known as 'Dr. Sebi' was correct in saying viruses don't exist. Learn more about Keith Bennett on Facebook."""
+4793,1,1,Japanese doctor who won Nobel Prize said coronavirus is artifical and was manufactured in China. see more of alex mavro on facebook.  japan 's nobel prize winning professor of medicine professor dr tasuku honjo created a sensation today by saying that the coronavirus is not natural ..... ,he stated that the virus was created in a laboratory in china and that it was intentionally released to create a pandemic. he also said that this is not the first time that such a virus has been created in a laboratory. the professor' mind-blowing statement caused a stir among the medical community and the public alike. many people are questioning how such a virus could have been created and released without anyone knowing. others are calling for more transparency from the medical community and the governments around the world.
+5361,1,0,CDC issued facial hair recommendation for novel coronavirus prevention. cnn as fears grow about the spread of novel coronavirus there 's increasing demand for facial masks. but there 's something that can interfere with how effective those are -- and that 's facial hair. side whiskers soul patches lampshades and handlebar moustaches are good to go according to a 2017 centers for disease control and prevention infographic on filtering facepiece respirators. but styles like long stubble a beard the dali and mutton chops are not recommended because they are likel.  as fears grow about the spread of novel coronavirus there 's increasing demand for facial masks. but there 's something that can interfere with how effective those are -- and that 's facial hair. ,side whiskers soul patches lampshades and handlebar moustaches are good to go according to a 2017 centers for disease control and prevention infographic on filtering facepiece respirators. but styles like long stubble a beard the dali and mutton chops are not recommended because they are likely to prevent a proper seal.
+5165,1,1,Obama family flown to private island to escape coronavirus pandemic. reach into your pocket or purse and pull put the wallet you carry when you go patriotically shopping at your nearest american small business or gun store. is there thirty billion dollars in there. no. then your last name is nt obama and you do nt own your own private safe island where you and your family and friends can wait out any crisis that the unwashed masses have to suffer through. two days ago while you and i were washing our hands and not going to the theater to see whatever terr.  ,"or thriller movie theaters are showing, the obama family was on a private island, a tiny one, surrounded by water, with all the amenities they could possibly need, thanks to the good graces of the chinese government. i'm not jealous. i'm just sayin'.
+
+(P) The Obama family was flown to a private island to escape the coronavirus pandemic. It is not the same as carrying a wallet with thirty billion dollars when shopping at an American small business or gun store. The Obama family is not the same as your last name and does not own their own private safe island. The Obama family was on a private island while the general population was facing the crisis, and this was due to the generosity of the Chinese government. The writer is not jealous and is simply pointing it out."
+5442,1,1,ÒSo let me get this straight about this virus. ItÕs ÒnewÓ yet it was lab created and patented in 2015 (in development since 03Õ).Ó  ,"The 'passage' is: ""Vous comprenez donc bien que cette virus est nouveau, bien qu'il ait été créé dans un laboratoire et patenté en 2015. Il a été en développement depuis 2003."""
+5049,1,1,"Says for otherwise healthy people Òexperiencing mild to moderate respiratory symptoms with or without a COVID-19 diagnosis É only high temperatures kill a virus, so let your fever run high,Ó but not over 103 or 104 degrees F.  ","(Passage)
+
+The passage suggests that for individuals who are otherwise healthy and have mild to moderate respiratory symptoms, whether or not they have a COVID-19 diagnosis, the only way to destroy a virus is by having a high temperature. It advises that while it is essential to have a high temperature to kill the virus, it should not exceed 103 or 104 degrees Fahrenheit."
+4956,1,0,Coronavirus will be exterminated if lockdowns are lifted.  ,"---  
+Sure, here' 1. The First Step
+2. The Second Step
+3. The Third Step
+4. The Fourth Step
+5. The Fifth Step
+6. The Sixth Step
+7. The Seventh Step
+8. The Eighth Step
+9. The Ninth Step
+10. The Tenth Step
+11. The Eleventh Step
+12. The Twelfth Step
+13. The Thirteenth Step
+14. The Fourteenth Step
+15. The Fifteenth Step
+16. The Sixteenth Step
+17. The Seventeenth Step
+18. The Eighteenth Step
+19. The Nineteenth Step
+20. The Twentieth Step
+21. The Twenty-First Step
+22. The Twenty-Second Step
+23. The Twenty-Third Step
+24. The Twenty-Fourth Step
+25. The Twenty-Fifth Step
+26. The Twenty-Sixth Step
+27. The Twenty-Seventh Step
+28. The Twenty-Eighth Step
+29. The Twenty-Ninth Step
+30. The Thirtieth Step
+31. The Thirty-First Step
+32. The Thirty-Second Step
+33. The Thirty-Third Step
+34. The Thirty-Fourth Step
+35. The Thirty-Fifth Step
+36. The Thirty-Sixth Step
+37. The Thirty-Seventh Step
+38. The Thirty-Eighth Step
+39. The Thirty-Ninth Step
+40. The Fortieth Step
+41. The Forty-First Step
+42. The Forty-Second Step
+43. The Forty-Third Step
+44. The Forty-Fourth Step
+45. The Forty-Fifth Step
+46. The Forty-Sixth Step
+47. The Forty-Seventh Step
+48. The Forty-Eighth Step
+49. The Forty-Ninth Step
+50. The Fiftieth Step
+51. The Fifty-First Step
+52. The Fifty-Second Step
+53. The Fifty-Third Step
+54. The Fifty-Fourth Step
+55. The Fifty-Fifth Step
+56. The Fifty-Sixth Step
+57. The Fifty-Seventh Step
+58. The Fifty-Eighth Step
+59. The Fifty-Ninth Step
+60. The Sixtieth Step
+61. The Sixty-First Step
+62. The Sixty-Second Step
+63. The Sixty-Third Step
+64. The Sixty-Fourth Step
+65. The Sixty-Fifth Step
+66. The Sixty-Sixth Step
+67. The Sixty-Seventh Step
+68. The Sixty-Eighth Step
+69. The Sixty-Ninth Step
+70. The Seventieth Step
+71. The Seventy-First Step
+72. The Seventy-Second Step
+73. The Seventy-Third Step
+74. The Seventy-Fourth Step
+75. The Seventy-Fifth Step
+76. The Seventy-Sixth Step
+77. The Seventy-Seventh Step
+78. The Seventy-Eighth Step
+79. The Seventy-Ninth Step
+80. The Eightieth Step
+81. The Eighty-First Step
+82. The Eighty-Second Step
+83. The Eighty-Third Step
+84. The Eighty-Fourth Step
+85. The Eighty-Fifth Step
+86. The Eighty-Sixth Step
+87. The Eighty-Seventh Step
+88. The Eighty-Eighth Step
+89. The Eighty-Ninth Step
+90. The Ninety-First Step
+91. The Ninety-Second Step
+92. The Ninety-Third Step
+93. The Ninety-Fourth Step
+94. The Ninety-Fifth Step
+95. The Ninety-Sixth Step
+96. The Ninety-Seventh Step
+97. The Ninety-Eighth Step
+98. The Ninety-Ninth Step
+99. The Hundredth Step
+100. The Hundred-First Step
+101. The Hundred-Second Step
+102. The Hundred-Third Step
+103. The Hundred-Fourth Step
+104. The Hundred-Fifth Step
+105. The Hundred-Sixth Step
+106. The Hundred-Seventh Step
+107. The Hundred-Eighth Step
+108. The Hundred-Ninth Step
+109. The Hundred-and-First Step
+110. The Hundred-and-Second Step
+111. The Hundred-and-Third Step
+112. The Hundred-and-Fourth Step
+113. The Hundred-and-Fifth Step
+114. The Hundred-and-Sixth Step
+115. The Hundred-and-Seventh Step
+116. The Hundred-and-Eighth Step
+117. The Hundred-and-Ninth Step
+118. The Hundred-and-Tenth Step
+119. The Hundred-and-Eleventh Step
+120. The Hundred-and-Twelfth Step
+121. The Hundred-and-Thirteenth Step
+122. The Hundred-and-Fourteenth Step
+123. The Hundred-and-Fifteenth Step
+124. The Hundred-and-Sixteenth Step
+125. The Hundred-and-Seventeenth Step
+126. The Hundred-and-Eighteenth Step
+127. The Hundred-and-Nineteenth Step
+128. The Hundred-and-Twentieth Step
+129. The Hundred-and-Twenty-First Step
+130. The Hundred-and-Twenty-Second Step
+131. The Hundred-and-Twenty-Third Step
+132. The Hundred-and-Twenty-Fourth Step
+133. The Hundred-and-Twenty-Fifth Step
+134. The Hundred-and-Twenty-Sixth Step
+135. The Hundred-and-Twenty-Seventh Step
+136. The Hundred-and-Twenty-Eighth Step
+137. The Hundred-and-Twenty-Ninth Step
+138. The Hundred-and-Thirtieth Step
+139. The Hundred-and-Thirty-First Step
+140. The Hundred-and-Thirty-Second Step
+141. The Hundred-and-Thirty-Third Step
+142. The Hundred-and-Thirty-Fourth Step
+143. The Hundre"
+5200,1,0,ÒPeople are going door to door in Colorado Springs stating they are COVID-19 testing so they can rob people!Ó  ,"---  
+Please paraphrase: People are claiming to be conducting COVID-19 tests in Colorado Springs with the intention of committing robberies."
+5435,1,0,A post says the coronavirus can be slowed or stopped with the Òimmediate widespread use of high doses of vitamin C.Ó  ,"---  
+Paraphrase: How can vitamin C help combat the COVID-19?"
+5173,1,1,"COVID-19 is no worse than other outbreaks that have occurred in Òevery election year,Ó suggesting that the new coronavirus is being ÒhypedÓ to hurt President Donald Trump.  ",COVID-19 是 其他在 「每選舉年」發生的疫情之一，暗示 COVID-19 被「調過」以對特朗普尼克特勒·特雷恩特的傷害。
+5252,1,0,Supermarkets are recalling coronavirus-infected toilet paper.  ,"---  
+Paraphrase: Supermarkets are pulling the infected toilet paper off their shelves."
