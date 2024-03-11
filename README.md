@@ -1,7 +1,6 @@
 # Can LLM-Generated Misinformation Be Detected?
 
->The repository (dataset and code) for the preprint paper **[Can LLM-Generated Misinformation Be Detected?](https://arxiv.org/abs/2309.13788)** <br> **Authors**: [Canyu Chen](https://canyuchen.com), [Kai Shu](http://www.cs.iit.edu/~kshu/)<br> **Paper** : [[arXiv]](https://arxiv.org/abs/2309.13788)<br> **Project Website** : [llm-misinformation.github.io](https://llm-misinformation.github.io/)
-**TLDR** : We discover that LLM-generated misinformation ***can be harder*** to detect for humans and detectors compared to human-written misinformation with the same semantics, which suggests it can have ***more deceptive styles*** and potentially cause more harm.
+>The repository (dataset and code) for the preprint paper **[Can LLM-Generated Misinformation Be Detected?](https://arxiv.org/abs/2309.13788)** <br> **Authors**: [Canyu Chen](https://canyuchen.com), [Kai Shu](http://www.cs.iit.edu/~kshu/)<br> **Paper** : [[arXiv]](https://arxiv.org/abs/2309.13788)<br> **Project Website** : [llm-misinformation.github.io](https://llm-misinformation.github.io/)<br>**TLDR** : We discover that LLM-generated misinformation ***can be harder*** to detect for humans and detectors compared to human-written misinformation with the same semantics, which suggests it can have ***more deceptive styles*** and potentially cause more harm.
 >
 > More resources on "**LLMs Meet Misinformation**" are also on the website: https://llm-misinformation.github.io/
 >
