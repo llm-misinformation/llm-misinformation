@@ -71,7 +71,8 @@ If you find our dataset or code useful, we will greatly appreacite it if you cou
       title = {Combating misinformation in the age of LLMs: Opportunities and challenges},
       journal = {AI Magazine},
       year = {2024},
-      doi = {10.1002/aaai.12188}
+      doi = {10.1002/aaai.12188},
+      url = {https://doi.org/10.1002/aaai.12188}
       }
 ```
 
