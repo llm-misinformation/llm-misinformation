@@ -4,7 +4,7 @@
 >
 > More resources on "**LLMs Meet Misinformation**" are also on the website: https://llm-misinformation.github.io/
 >
->Any suggestion, comment or further discussion is welcome. Please let us know by email (cchen151@hawk.iit.edu) or wechat (alexccychen).
+>Any suggestion, comment or further discussion is welcome. Correspondence to: Kai Shu (<kai.shu@emory.edu>).
 
 ## Abstract
 <img src="./image/f1.png" width="500">  
