@@ -1,7 +1,14 @@
 # Can LLM-Generated Misinformation Be Detected?
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1oHsW2q1yEQgQ5GfBtO_nrER75053eBIW/view"><img src="https://img.shields.io/badge/🏆_Didactic_Paper_Award-NeurIPS_2023_ICBINB_Workshop-FFB300?style=for-the-badge&labelColor=8B6914&logoColor=white" alt="Best Paper Award — ACL 2026 Workshop on Trustworthy NLP"></a>
+</p>
+
+
 >The repository (dataset and code) for the ICLR 2024 paper **[Can LLM-Generated Misinformation Be Detected?](https://arxiv.org/abs/2309.13788)** <br> **Authors**: [Canyu Chen](https://canyuchen.com), [Kai Shu](http://www.cs.iit.edu/~kshu/)<br> **Paper** : [[arXiv]](https://arxiv.org/abs/2309.13788)<br> **Project Website** : [llm-misinformation.github.io](https://llm-misinformation.github.io/)<br>**TLDR** : We discover that LLM-generated misinformation ***can be harder*** to detect for humans and detectors compared to human-written misinformation with the same semantics, which suggests it can have ***more deceptive styles*** and potentially cause more harm.
 >
+> **Award**: This work is honored to receive the 🏆 **[Didactic Paper Award](https://drive.google.com/file/d/1oHsW2q1yEQgQ5GfBtO_nrER75053eBIW/view)** in the workshop *ICBINB@NeurIPS 2023*.
+> 
 > More resources on "**LLMs Meet Misinformation**" are also on the website: https://llm-misinformation.github.io/
 >
 >Any suggestion, comment or further discussion is welcome. Correspondence to: Kai Shu (<kai.shu@emory.edu>).
